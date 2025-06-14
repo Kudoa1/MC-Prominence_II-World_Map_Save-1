@@ -2,5 +2,7 @@
   "singleplayer": {
     "Test1": true
   },
-  "multiplayer": {}
+  "multiplayer": {
+    "27b02a49-866e-4eb6-ae84-8f71ebd5b45d": true
+  }
 }
