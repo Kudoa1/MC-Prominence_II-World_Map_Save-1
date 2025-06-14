@@ -1,0 +1,17 @@
+{
+	id: "27b02a49-866e-4eb6-ae84-8f71ebd5b45d"
+	type: "player"
+	player_name: "KudoaGamer"
+	ranks: {
+		27b02a49-866e-4eb6-ae84-8f71ebd5b45d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "KudoaGamer"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F4FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
