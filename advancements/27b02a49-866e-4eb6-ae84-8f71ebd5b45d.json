@@ -692,5 +692,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-14 17:48:40 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-14 17:48:40 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
