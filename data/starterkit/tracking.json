@@ -1,8 +1,10 @@
 {
   "singleplayer": {
-    "Test1": true
+    "Test1": true,
+    "MC-Prominence_II-World_Map_Save-1": true
   },
   "multiplayer": {
-    "27b02a49-866e-4eb6-ae84-8f71ebd5b45d": true
+    "27b02a49-866e-4eb6-ae84-8f71ebd5b45d": true,
+    "f96c01eb-25f9-47c0-bf5a-c872c118e523": true
   }
 }

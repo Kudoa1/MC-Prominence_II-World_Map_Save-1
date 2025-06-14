@@ -1,0 +1,17 @@
+{
+	id: "f96c01eb-25f9-47c0-bf5a-c872c118e523"
+	type: "player"
+	player_name: "MagnaIgnis"
+	ranks: {
+		f96c01eb-25f9-47c0-bf5a-c872c118e523: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MagnaIgnis"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
