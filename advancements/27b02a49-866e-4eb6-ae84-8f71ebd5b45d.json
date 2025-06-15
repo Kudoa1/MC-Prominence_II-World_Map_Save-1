@@ -700,6 +700,7 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "handcrafted:recipes/misc/spruce_counter": {
     "criteria": {
       "has_spruce_counter": "2025-06-15 01:13:12 -0300"
@@ -11490,6 +11491,17 @@
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2025-06-15 01:13:12 -0300"
+=======
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-14 17:48:40 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-14 17:48:40 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },

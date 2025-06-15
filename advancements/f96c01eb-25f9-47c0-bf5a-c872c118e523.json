@@ -622,7 +622,10 @@
   },
   "lootr:social": {
     "criteria": {
+<<<<<<< HEAD
       "opened_barrel": "2025-06-14 23:16:22 -0300",
+=======
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
       "opened_chest": "2025-06-14 17:33:00 -0300"
     },
     "done": false
@@ -1199,9 +1202,12 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+<<<<<<< HEAD
       "beetroot": "2025-06-15 01:06:15 -0300",
       "potato": "2025-06-15 01:05:54 -0300",
       "wheat": "2025-06-15 01:05:57 -0300",
+=======
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
       "carrot": "2025-06-14 17:39:33 -0300"
     },
     "done": false
@@ -1212,6 +1218,7 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "mcda:recipes/base_armors/guards_armor_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-06-14 23:19:55 -0300"
@@ -1683,11 +1690,17 @@
   "techreborn:recipes/misc/crafting_table/armor/silver_boots": {
     "criteria": {
       "has_silver_ingot": "2025-06-14 23:09:38 -0300"
+=======
+  "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
+    "criteria": {
+      "has_sapling": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
+<<<<<<< HEAD
       "has_apple": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -2427,11 +2440,15 @@
   "mcdw:recipes/bows/bow_hunters_promise": {
     "criteria": {
       "has_feather": "2025-06-14 23:03:08 -0300"
+=======
+      "has_apple": "2025-06-14 17:52:17 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
+<<<<<<< HEAD
       "iron_helmet": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -2673,11 +2690,15 @@
   "stoneworks:recipes/building_blocks/basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-14 23:55:55 -0300"
+=======
+      "iron_leggings": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
     "criteria": {
+<<<<<<< HEAD
       "has_core_specification_item": "2025-06-14 22:56:42 -0300"
     },
     "done": true
@@ -2721,11 +2742,21 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-06-14 23:19:54 -0300"
+=======
+      "has_core_specification_item": "2025-06-14 17:52:16 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "croptopia:recipes/fruit_smoothie": {
     "criteria": {
+<<<<<<< HEAD
       "has_fruit": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -3051,11 +3082,15 @@
   "bewitchment:recipes/building_blocks/salt_block": {
     "criteria": {
       "has_item": "2025-06-15 00:02:07 -0300"
+=======
+      "has_fruit": "2025-06-14 17:52:17 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "mcda:recipes/base_armors/snow_armor_helmet": {
     "criteria": {
+<<<<<<< HEAD
       "has_iron_helmet": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -3657,11 +3692,15 @@
   "betternether:recipes/decorations/mushroom_fir_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-14 23:16:43 -0300"
+=======
+      "has_iron_helmet": "2025-06-14 17:52:17 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "techreborn:recipes/extractor/rubber_from_rubber_sapling": {
     "criteria": {
+<<<<<<< HEAD
       "has_rubber_sapling": "2025-06-14 22:56:42 -0300"
     },
     "done": true
@@ -3861,11 +3900,15 @@
   "betternether:recipes/decorations/bamboo_chair": {
     "criteria": {
       "has_stick": "2025-06-14 23:16:43 -0300"
+=======
+      "has_rubber_sapling": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "mcda:recipes/unique_armors/highland_armor_helmet": {
     "criteria": {
+<<<<<<< HEAD
       "has_iron_helmet": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -4065,11 +4108,21 @@
   "betternether:recipes/decorations/stalagnate_chair": {
     "criteria": {
       "has_stick": "2025-06-14 23:16:43 -0300"
+=======
+      "has_iron_helmet": "2025-06-14 17:52:17 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "croptopia:recipes/misc/apple_sapling": {
     "criteria": {
+<<<<<<< HEAD
       "has_apple": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -4203,11 +4256,15 @@
   "betterend:recipes/misc/copy_tool_assembly": {
     "criteria": {
       "has_stick": "2025-06-14 23:16:43 -0300"
+=======
+      "has_apple": "2025-06-14 17:52:17 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "mcda:recipes/base_armors/reinforced_mail_helmet": {
     "criteria": {
+<<<<<<< HEAD
       "has_iron_helmet": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -4701,11 +4758,15 @@
   "betterend:recipes/building_blocks/lucernia_bookshelf": {
     "criteria": {
       "has_book": "2025-06-15 00:27:56 -0300"
+=======
+      "has_iron_helmet": "2025-06-14 17:52:17 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "mcda:recipes/base_armors/mercenary_armor_helmet": {
     "criteria": {
+<<<<<<< HEAD
       "has_iron_helmet": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -4719,11 +4780,15 @@
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
     "criteria": {
       "has_tag_minecraft_wooden_slabs": "2025-06-14 23:41:22 -0300"
+=======
+      "has_iron_helmet": "2025-06-14 17:52:17 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "mcda:recipes/base_armors/emerald_gear_leggings": {
     "criteria": {
+<<<<<<< HEAD
       "has_emerald": "2025-06-14 22:57:21 -0300"
     },
     "done": true
@@ -4989,11 +5054,15 @@
   "soulsweapons:recipes/misc/verglas": {
     "criteria": {
       "has_item": "2025-06-15 00:41:48 -0300"
+=======
+      "has_iron_leggings": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
+<<<<<<< HEAD
       "has_apple": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -6077,11 +6146,15 @@
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-06-15 01:22:05 -0300"
+=======
+      "has_apple": "2025-06-14 17:52:17 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
+<<<<<<< HEAD
       "has_apple": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -6834,11 +6907,15 @@
   "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
     "criteria": {
       "has_book": "2025-06-15 00:27:56 -0300"
+=======
+      "has_apple": "2025-06-14 17:52:17 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
+<<<<<<< HEAD
       "has_sapling": "2025-06-14 22:56:42 -0300"
     },
     "done": true
@@ -7188,11 +7265,15 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
     "criteria": {
       "has_diamond_horse_armor": "2025-06-14 23:10:30 -0300"
+=======
+      "has_sapling": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
+<<<<<<< HEAD
       "has_iron_pickaxe": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -7962,11 +8043,15 @@
   "mcdw:recipes/glaives/spear_grave_bane": {
     "criteria": {
       "has_gold_ingot": "2025-06-14 23:10:30 -0300"
+=======
+      "has_iron_leggings": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "seasonsextras:recipes/seasonal_compendium": {
     "criteria": {
+<<<<<<< HEAD
       "has_sapling": "2025-06-14 22:56:42 -0300"
     },
     "done": true
@@ -8610,11 +8695,15 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-06-14 23:19:55 -0300"
+=======
+      "has_sapling": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
     "criteria": {
+<<<<<<< HEAD
       "has_iron_helmet": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -8622,11 +8711,15 @@
   "betterend:recipes/misc/piercing_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-15 00:27:56 -0300"
+=======
+      "has_iron_helmet": "2025-06-14 17:52:17 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "vinery:main/forbidden_fruit": {
     "criteria": {
+<<<<<<< HEAD
       "apple": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -8712,11 +8805,15 @@
   "mcdw:recipes/bows/bow_wind_bow": {
     "criteria": {
       "has_iron_ingot": "2025-06-14 23:19:54 -0300"
+=======
+      "apple": "2025-06-14 17:52:17 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "techreborn:recipes/chemical_reactor/golden_apple": {
     "criteria": {
+<<<<<<< HEAD
       "has_apple": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -9178,11 +9275,15 @@
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-06-15 00:30:29 -0300"
+=======
+      "has_apple": "2025-06-14 17:52:17 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "botania:recipes/tools/lexicon": {
     "criteria": {
+<<<<<<< HEAD
       "has_item": "2025-06-14 22:56:42 -0300"
     },
     "done": true
@@ -9400,11 +9501,15 @@
   "betternether:recipes/decorations/nether_sakura_hanging_sign": {
     "criteria": {
       "has_chain": "2025-06-15 01:34:23 -0300"
+=======
+      "has_item": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "techreborn:recipes/centrifuge/apple": {
     "criteria": {
+<<<<<<< HEAD
       "has_apple": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -10584,11 +10689,21 @@
   "betterend:recipes/misc/diamond_hammer": {
     "criteria": {
       "has_diamond": "2025-06-14 23:09:40 -0300"
+=======
+      "has_apple": "2025-06-14 17:52:17 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "croptopia:recipes/fruit_salad": {
     "criteria": {
+<<<<<<< HEAD
       "has_apple": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -10674,11 +10789,21 @@
   "bclib:recipes/redstone/tag_hopper": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-06-14 23:19:55 -0300"
+=======
+      "has_apple": "2025-06-14 17:52:17 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
+<<<<<<< HEAD
       "has_iron_pickaxe": "2025-06-14 22:55:35 -0300"
     },
     "done": true
@@ -10818,6 +10943,9 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
     "criteria": {
       "has_diamond_horse_armor": "2025-06-14 23:10:30 -0300"
+=======
+      "has_iron_leggings": "2025-06-14 17:52:16 -0300"
+>>>>>>> cc38d43bd9c197d7429aafbd6a00a338c0a97abc
     },
     "done": true
   },
