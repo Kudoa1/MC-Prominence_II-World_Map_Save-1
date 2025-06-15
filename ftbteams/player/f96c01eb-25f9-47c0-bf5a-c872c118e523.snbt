@@ -2,9 +2,7 @@
 	id: "f96c01eb-25f9-47c0-bf5a-c872c118e523"
 	type: "player"
 	player_name: "MagnaIgnis"
-	ranks: {
-		f96c01eb-25f9-47c0-bf5a-c872c118e523: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "MagnaIgnis"
 		"ftbteams:description": ""

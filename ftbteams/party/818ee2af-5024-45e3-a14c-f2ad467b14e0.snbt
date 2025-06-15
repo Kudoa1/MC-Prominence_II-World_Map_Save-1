@@ -1,0 +1,22 @@
+{
+	id: "818ee2af-5024-45e3-a14c-f2ad467b14e0"
+	type: "party"
+	owner: "27b02a49-866e-4eb6-ae84-8f71ebd5b45d"
+	ranks: {
+		27b02a49-866e-4eb6-ae84-8f71ebd5b45d: "owner"
+		f96c01eb-25f9-47c0-bf5a-c872c118e523: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Rocket"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F4FF59"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1749953743576L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"KudoaGamer\"}]}" }
+		{ from: "27b02a49-866e-4eb6-ae84-8f71ebd5b45d", date: 1749953743580L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"MagnaIgnis\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1749953746038L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"MagnaIgnis\"}]}" }
+	]
+	extra: { }
+}
