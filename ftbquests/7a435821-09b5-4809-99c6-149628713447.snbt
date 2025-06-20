@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "7a43582109b5480999c6149628713447"
+	name: "TofiTofSP#7a435821"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7B701D980200A661: 1
+	}
+	started: {
+		7539C31213D86E55: 1750362450868L
+		0000000000000001: 1750362450868L
+		7B701D980200A661: 1750362450868L
+		1DD302BB650057E3: 1750362450868L
+	}
+	completed: {
+		7B701D980200A661: 1750362450925L
+		1DD302BB650057E3: 1750362450925L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "7a435821-09b5-4809-99c6-149628713447"
+	type: "player"
+	player_name: "TofiTofSP"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "TofiTofSP"
+		"ftbteams:description": ""
+		"ftbteams:color": "#86FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
