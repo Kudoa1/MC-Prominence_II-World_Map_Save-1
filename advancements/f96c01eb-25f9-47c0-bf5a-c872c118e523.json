@@ -21713,5 +21713,11 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/cyan_coffin": {
+    "criteria": {
+      "has_item": "2025-06-22 21:40:54 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
