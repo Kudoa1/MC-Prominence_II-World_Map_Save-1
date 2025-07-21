@@ -23106,9 +23106,9 @@
     },
     "done": true
   },
-  "zenith:enchanting/hellshelf": {
+  "zenith:enchanting/quanta50": {
     "criteria": {
-      "hellshelf": "2025-07-16 21:58:28 -0300"
+      "enchanted_item": "2025-07-16 21:46:14 -0300"
     },
     "done": true
   },
@@ -23118,9 +23118,105 @@
     },
     "done": true
   },
-  "zenith:enchanting/quanta50": {
+  "zenith:enchanting/hellshelf": {
     "criteria": {
-      "enchanted_item": "2025-07-16 21:46:14 -0300"
+      "hellshelf": "2025-07-16 21:58:28 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/refined_iron_plate_from_c_iron_plates": {
+    "criteria": {
+      "has_tag_c_iron_plates": "2025-07-21 18:40:35 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 18:45:15 -0300"
+    },
+    "done": true
+  },
+  "indrev:pulverizer": {
+    "criteria": {
+      "checkInv": "2025-07-21 18:41:23 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-07-21 18:40:35 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-07-21 18:40:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/neutron_reflector": {
+    "criteria": {
+      "has_copper_plate": "2025-07-21 18:37:04 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/refined_iron_plate_from_c_iron_plates": {
+    "criteria": {
+      "has_tag_c_iron_plates": "2025-07-21 18:40:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 18:45:15 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-07-21 18:40:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 18:45:15 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-07-21 18:40:35 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-07-21 18:41:11 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/electronic_circuit": {
+    "criteria": {
+      "has_copper_plate": "2025-07-21 18:37:04 -0300"
+    },
+    "done": true
+  },
+  "indrev:machine_block": {
+    "criteria": {
+      "checkInv": "2025-07-21 18:40:51 -0300"
+    },
+    "done": true
+  },
+  "indrev:circuit_mk1": {
+    "criteria": {
+      "checkInv": "2025-07-21 18:41:19 -0300"
+    },
+    "done": true
+  },
+  "zenith:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2025-07-21 17:30:02 -0300"
     },
     "done": true
   },

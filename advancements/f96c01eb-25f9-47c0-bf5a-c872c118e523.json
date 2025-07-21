@@ -26884,5 +26884,17 @@
     },
     "done": true
   },
+  "indrev:pulverizer": {
+    "criteria": {
+      "checkInv": "2025-07-21 19:00:05 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-07-21 19:00:22 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
