@@ -1420,6 +1420,7 @@
       "minecraft:cave_spider": "2025-06-19 23:26:03 -0300",
       "minecraft:piglin": "2025-07-09 20:57:50 -0300",
       "minecraft:enderman": "2025-06-15 21:43:12 -0300",
+      "minecraft:silverfish": "2025-07-23 10:29:45 -0300",
       "minecraft:zombie": "2025-06-15 19:10:38 -0300",
       "minecraft:zombie_villager": "2025-06-15 21:31:51 -0300"
     },
@@ -1615,6 +1616,7 @@
       "suspicious_stew": "2025-06-20 01:27:08 -0300",
       "glow_berries": "2025-07-09 21:25:48 -0300",
       "melon_slice": "2025-07-01 20:39:04 -0300",
+      "enchanted_golden_apple": "2025-07-23 10:31:29 -0300",
       "mushroom_stew": "2025-06-20 03:14:14 -0300",
       "cooked_salmon": "2025-06-20 02:56:30 -0300"
     },
@@ -27341,114 +27343,6 @@
     },
     "done": true
   },
-  "deeperdarker:main/enter_otherside": {
-    "criteria": {
-      "otherside": "2025-07-22 22:30:32 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_tile_slab_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/crypt": {
-    "criteria": {
-      "crypt": "2025-07-22 23:34:31 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2025-07-22 23:28:38 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/tungstensteel_plate": {
-    "criteria": {
-      "has_tag_c_tungstensteel_ingots": "2025-07-22 23:07:10 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine_block/industrial_machine_casing": {
-    "criteria": {
-      "has_industrial_machine_frame": "2025-07-22 23:28:37 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/gray_cushion": {
-    "criteria": {
-      "has_gray_cushion": "2025-07-22 23:02:37 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/flaming_ruby_pickaxe": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/chiseled_gloomslate_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/platinum_nugget": {
-    "criteria": {
-      "has_platinum_ingot": "2025-07-22 22:59:21 -0300"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/blast_amplifier": {
-    "criteria": {
-      "has_blazing_eye": "2025-07-22 22:12:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-07-22 23:02:37 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/titanium_dust": {
-    "criteria": {
-      "has_tag_c_titanium_ingots": "2025-07-22 23:28:53 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_tile_stairs_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2025-07-22 22:59:36 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_tungstensteel_storage_block_alt": {
-    "criteria": {
-      "has_tungstensteel_ingot": "2025-07-22 23:07:10 -0300"
-    },
-    "done": true
-  },
   "fwaystones:recipes/deepslate_waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-07-22 21:49:18 -0300"
@@ -27461,123 +27355,15 @@
     },
     "done": true
   },
-  "deeperdarker:main/kill_warden": {
-    "criteria": {
-      "warden": "2025-07-22 22:51:02 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-07-22 23:17:26 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/data_storage_chip": {
-    "criteria": {
-      "has_iridium_ingot": "2025-07-22 23:07:10 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/advanced_drill": {
-    "criteria": {
-      "has_titanium_ingot": "2025-07-22 23:28:53 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/implosion_compressor/sculk_catalyst": {
-    "criteria": {
-      "has_sculk": "2025-07-22 23:13:32 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/platinum_dust": {
-    "criteria": {
-      "has_tag_c_platinum_ingots": "2025-07-22 22:59:21 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/platinum_storage_block": {
-    "criteria": {
-      "has_platinum_ingot": "2025-07-22 22:59:21 -0300"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/soul_lamp": {
-    "criteria": {
-      "has_item": "2025-07-22 23:28:38 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/sculk_from_sculk_catalyst": {
-    "criteria": {
-      "has_sculk_catalyst": "2025-07-22 22:51:06 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
-    "criteria": {
-      "has_diamond_hoe": "2025-07-22 23:15:10 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
   "fwaystones:recipes/blackstone_waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-07-22 21:49:18 -0300"
     },
     "done": true
   },
-  "graveyard:graveyard/kill_wraith": {
-    "criteria": {
-      "wraith": "2025-07-22 23:34:39 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:main/explore_otherside": {
-    "criteria": {
-      "overcast_columns": "2025-07-22 22:30:32 -0300"
-    },
-    "done": false
-  },
   "fwaystones:recipes/waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-07-22 21:49:18 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/advanced_chainsaw": {
-    "criteria": {
-      "has_titanium_ingot": "2025-07-22 23:28:53 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_tiles_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/combat/flaming_ruby_boots": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_bricks_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/tungstensteel_nugget": {
-    "criteria": {
-      "has_tungstensteel_ingot": "2025-07-22 23:07:10 -0300"
     },
     "done": true
   },
@@ -27587,99 +27373,9 @@
     },
     "done": true
   },
-  "comforts:hammock_gray": {
-    "criteria": {
-      "has_gray_wool": "2025-07-22 23:02:37 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/iridium_nugget": {
-    "criteria": {
-      "has_iridium_ingot": "2025-07-22 23:07:10 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/combat/flaming_ruby_leggings": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-07-22 23:28:01 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2025-07-22 23:28:38 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/superconductor": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/titanium_storage_block": {
-    "criteria": {
-      "has_titanium_ingot": "2025-07-22 23:28:53 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/polished_gloomslate": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
-    "criteria": {
-      "has_warden_upgrade_smithing_template": "2025-07-22 23:13:32 -0300"
-    },
-    "done": true
-  },
   "fwaystones:recipes/end_stone_waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-07-22 21:49:18 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/polished_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/flaming_ruby_shovel": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/platinum_plate": {
-    "criteria": {
-      "has_tag_c_platinum_ingots": "2025-07-22 22:59:21 -0300"
     },
     "done": true
   },
@@ -27689,93 +27385,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/assembling_machine/gray_bed_from_wool": {
-    "criteria": {
-      "has_gray_wool": "2025-07-22 23:02:37 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/charge_o_mat": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_hoe_with_mercury": {
-    "criteria": {
-      "has_diamond_hoe": "2025-07-22 23:15:10 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/titanium_plate": {
-    "criteria": {
-      "has_tag_c_titanium_ingots": "2025-07-22 23:28:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-07-22 23:02:37 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/lightning_rod": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/matter_fabricator": {
-    "criteria": {
-      "has_industrial_machine_frame": "2025-07-22 23:28:37 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/chunk_loader": {
-    "criteria": {
-      "has_industrial_machine_frame": "2025-07-22 23:28:37 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
-    "criteria": {
-      "has_gray_wool": "2025-07-22 23:02:37 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/battery/lapotron_crystal": {
-    "criteria": {
-      "has_industrial_circuit": "2025-07-22 22:59:36 -0300"
-    },
-    "done": true
-  },
   "fwaystones:recipes/stone_brick_waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-07-22 21:49:18 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:excalibur": {
-    "criteria": {
-      "condition_1": "2025-07-22 22:51:02 -0300"
-    },
-    "done": false
-  },
-  "betternether:recipes/tools/flaming_ruby_hoe": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/combat/flaming_ruby_chestplate": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
     },
     "done": true
   },
@@ -27785,21 +27397,21 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab": {
+  "fwaystones:recipes/red_desert_waystone": {
     "criteria": {
-      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
+      "has_abyss_watcher": "2025-07-22 21:49:18 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
     "criteria": {
-      "has_titanium_ingot": "2025-07-22 23:28:53 -0300"
+      "bosses_of_mass_destruction:gauntlet": "2025-07-22 22:12:26 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/iridium_storage_block": {
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
-      "has_iridium_ingot": "2025-07-22 23:07:10 -0300"
+      "has_blazing_eye": "2025-07-22 22:12:44 -0300"
     },
     "done": true
   },
@@ -27809,39 +27421,99 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-07-22 22:30:32 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-07-22 22:30:32 -0300"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/misc/orange_dye_from_smelting_gloomy_cactus": {
     "criteria": {
       "has_gloomy_cactus": "2025-07-22 22:31:53 -0300"
     },
     "done": true
   },
-  "comforts:sleeping_bag_gray": {
+  "deeperdarker:recipes/building_blocks/gloomslate_tile_slab_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
-      "has_gray_wool": "2025-07-22 23:02:37 -0300"
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
     },
     "done": true
   },
-  "fwaystones:recipes/red_desert_waystone": {
+  "deeperdarker:recipes/building_blocks/chiseled_gloomslate_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
-      "has_abyss_watcher": "2025-07-22 21:49:18 -0300"
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/tungstensteel_storage_block": {
+  "deeperdarker:recipes/building_blocks/gloomslate_tile_stairs_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
-      "has_tungstensteel_ingot": "2025-07-22 23:07:10 -0300"
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/distillation_tower": {
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
-      "has_industrial_machine_frame": "2025-07-22 23:28:37 -0300"
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/sculk_shrieker": {
+  "deeperdarker:recipes/building_blocks/gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
-      "has_sculk_catalyst": "2025-07-22 22:51:06 -0300"
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_tiles_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_bricks_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_gloomslate": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
     },
     "done": true
   },
@@ -27857,69 +27529,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/nugget/titanium_nugget": {
-    "criteria": {
-      "has_titanium_ingot": "2025-07-22 23:28:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-07-22 23:17:26 -0300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/soul_chandelier": {
-    "criteria": {
-      "has_torch": "2025-07-22 23:28:38 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/industrial_drill": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/iridium_plate": {
-    "criteria": {
-      "has_tag_c_iridium_ingots": "2025-07-22 23:07:10 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/sculk_sensor": {
-    "criteria": {
-      "has_sculk": "2025-07-22 23:13:32 -0300"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/gloomslate_brick_stairs_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/flaming_ruby_axe": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
-    "criteria": {
-      "has_torch": "2025-07-22 23:28:38 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
-    "criteria": {
-      "has_iridium_ingot": "2025-07-22 23:07:10 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/sonorous_staff": {
-    "criteria": {
-      "has_heart_of_the_deep": "2025-07-22 22:51:06 -0300"
     },
     "done": true
   },
@@ -27929,39 +27541,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-07-22 23:02:37 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/combat/flaming_ruby_sword": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/polished_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-07-22 22:33:09 -0300"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
-    "criteria": {
-      "bosses_of_mass_destruction:gauntlet": "2025-07-22 22:12:26 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/gray_sheet": {
-    "criteria": {
-      "has_gray_sheet": "2025-07-22 23:02:37 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/cable/superconductor_cable": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
     },
     "done": true
   },
@@ -27977,15 +27559,471 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-07-22 22:51:02 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:excalibur": {
+    "criteria": {
+      "condition_1": "2025-07-22 22:51:02 -0300"
+    },
+    "done": false
+  },
+  "betternether:recipes/tools/flaming_ruby_pickaxe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sculk_from_sculk_catalyst": {
+    "criteria": {
+      "has_sculk_catalyst": "2025-07-22 22:51:06 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_boots": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_leggings": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_shovel": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_hoe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_chestplate": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/sculk_shrieker": {
+    "criteria": {
+      "has_sculk_catalyst": "2025-07-22 22:51:06 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_axe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-07-22 22:51:06 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_sword": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/flaming_ruby_helmet": {
     "criteria": {
       "has_block.minecraft.sculk_catalyst": "2025-07-22 22:51:06 -0300"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/platinum_nugget": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-22 22:59:21 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/platinum_dust": {
+    "criteria": {
+      "has_tag_c_platinum_ingots": "2025-07-22 22:59:21 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/platinum_storage_block": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-22 22:59:21 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/platinum_plate": {
+    "criteria": {
+      "has_tag_c_platinum_ingots": "2025-07-22 22:59:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-07-22 22:59:36 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/lapotron_crystal": {
+    "criteria": {
+      "has_industrial_circuit": "2025-07-22 22:59:36 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-07-22 23:02:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-22 23:02:37 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-07-22 23:02:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/gray_bed_from_wool": {
+    "criteria": {
+      "has_gray_wool": "2025-07-22 23:02:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-22 23:02:37 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-07-22 23:02:37 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-07-22 23:02:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-22 23:02:37 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-07-22 23:02:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/tungstensteel_plate": {
+    "criteria": {
+      "has_tag_c_tungstensteel_ingots": "2025-07-22 23:07:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_tungstensteel_storage_block_alt": {
+    "criteria": {
+      "has_tungstensteel_ingot": "2025-07-22 23:07:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_chip": {
+    "criteria": {
+      "has_iridium_ingot": "2025-07-22 23:07:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/tungstensteel_nugget": {
+    "criteria": {
+      "has_tungstensteel_ingot": "2025-07-22 23:07:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/iridium_nugget": {
+    "criteria": {
+      "has_iridium_ingot": "2025-07-22 23:07:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/iridium_storage_block": {
+    "criteria": {
+      "has_iridium_ingot": "2025-07-22 23:07:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/tungstensteel_storage_block": {
+    "criteria": {
+      "has_tungstensteel_ingot": "2025-07-22 23:07:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iridium_plate": {
+    "criteria": {
+      "has_tag_c_iridium_ingots": "2025-07-22 23:07:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
+    "criteria": {
+      "has_iridium_ingot": "2025-07-22 23:07:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/sculk_catalyst": {
+    "criteria": {
+      "has_sculk": "2025-07-22 23:13:32 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-07-22 23:13:32 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/sculk_sensor": {
+    "criteria": {
+      "has_sculk": "2025-07-22 23:13:32 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/superconductor": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/charge_o_mat": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lightning_rod": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_drill": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/superconductor_cable": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:15:09 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
+    "criteria": {
+      "has_diamond_hoe": "2025-07-22 23:15:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_hoe_with_mercury": {
+    "criteria": {
+      "has_diamond_hoe": "2025-07-22 23:15:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-22 23:17:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-22 23:17:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-22 23:28:01 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_casing": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-07-22 23:28:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/matter_fabricator": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-07-22 23:28:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chunk_loader": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-07-22 23:28:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/distillation_tower": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-07-22 23:28:37 -0300"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/fluid_replicator": {
     "criteria": {
       "has_industrial_machine_frame": "2025-07-22 23:28:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/soul_lamp": {
+    "criteria": {
+      "has_item": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/titanium_dust": {
+    "criteria": {
+      "has_tag_c_titanium_ingots": "2025-07-22 23:28:53 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/advanced_drill": {
+    "criteria": {
+      "has_titanium_ingot": "2025-07-22 23:28:53 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/advanced_chainsaw": {
+    "criteria": {
+      "has_titanium_ingot": "2025-07-22 23:28:53 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/titanium_storage_block": {
+    "criteria": {
+      "has_titanium_ingot": "2025-07-22 23:28:53 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/titanium_plate": {
+    "criteria": {
+      "has_tag_c_titanium_ingots": "2025-07-22 23:28:53 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
+    "criteria": {
+      "has_titanium_ingot": "2025-07-22 23:28:53 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/titanium_nugget": {
+    "criteria": {
+      "has_titanium_ingot": "2025-07-22 23:28:53 -0300"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-07-22 23:34:31 -0300"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-07-22 23:34:39 -0300"
+    },
+    "done": true
+  },
+  "zenith:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2025-07-23 10:49:16 -0300"
+    },
+    "done": true
+  },
+  "zenith:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-07-23 10:49:16 -0300"
+    },
+    "done": true
+  },
+  "zenith:enchanting/sculkshelf": {
+    "criteria": {
+      "soul_touched": "2025-07-23 10:46:12 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/silence_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sculk_shrieker": "2025-07-23 10:25:44 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/sculk": {
+    "criteria": {
+      "has_sculk_vein": "2025-07-23 10:23:57 -0300"
+    },
+    "done": true
+  },
+  "zenith:enchanting/quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-07-23 10:49:16 -0300"
     },
     "done": true
   },
