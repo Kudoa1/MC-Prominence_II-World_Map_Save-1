@@ -23712,27 +23712,21 @@
     },
     "done": true
   },
-  "deeperdarker:main/enter_otherside": {
+  "spellbladenext:spellblades/specialblades": {
     "criteria": {
-      "otherside": "2025-07-22 22:30:23 -0300"
+      "arcane": "2025-07-22 22:00:27 -0300"
     },
     "done": true
   },
-  "graveyard:graveyard/crypt": {
+  "techreborn:recipes/assembling_machine/silence_armor_trim_smithing_template": {
     "criteria": {
-      "crypt": "2025-07-22 23:31:37 -0300"
+      "has_sculk_shrieker": "2025-07-22 22:04:27 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine_block/industrial_machine_casing": {
+  "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
-      "has_industrial_machine_frame": "2025-07-22 22:59:49 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/platinum_nugget": {
-    "criteria": {
-      "has_platinum_ingot": "2025-07-22 22:58:54 -0300"
+      "has_heart_of_the_deep": "2025-07-22 22:04:29 -0300"
     },
     "done": true
   },
@@ -23742,39 +23736,47 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/gloomslate_slab": {
+  "adventurez:recipes/gilded_netherite_fragment_recipe": {
     "criteria": {
-      "has_gloomslate": "2025-07-22 23:10:46 -0300"
+      "got_the_netherite_fragment": "2025-07-22 22:14:09 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
+  "spellbladenext:spellblades/falchion": {
     "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
+      "arcane": "2025-07-22 22:22:56 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/grinder/titanium_dust": {
+  "techreborn:recipes/blast_furnace/iron_nugget_from_hoe": {
     "criteria": {
-      "has_tag_c_titanium_ingots": "2025-07-22 23:28:38 -0300"
+      "has_iron_hoe": "2025-07-22 22:24:26 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/parts/data_storage_chip": {
+  "deeperdarker:main/enter_otherside": {
     "criteria": {
-      "has_iridium_ingot": "2025-07-22 23:28:58 -0300"
+      "otherside": "2025-07-22 22:30:23 -0300"
     },
     "done": true
   },
-  "spellbladenext:spellblades/specialblades": {
+  "deeperdarker:main/explore_otherside": {
     "criteria": {
-      "arcane": "2025-07-22 22:00:27 -0300"
+      "overcast_columns": "2025-07-22 22:30:24 -0300",
+      "blooming_caverns": "2025-07-22 22:44:45 -0300",
+      "echoing_forest": "2025-07-22 22:39:22 -0300"
+    },
+    "done": false
+  },
+  "mutantmonsters:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2025-07-22 22:48:02 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/tool/advanced_drill": {
+  "techreborn:recipes/misc/crafting_table/nugget/platinum_nugget": {
     "criteria": {
-      "has_titanium_ingot": "2025-07-22 23:28:38 -0300"
+      "has_platinum_ingot": "2025-07-22 22:58:54 -0300"
     },
     "done": true
   },
@@ -23790,101 +23792,15 @@
     },
     "done": true
   },
-  "mutantmonsters:you_da_bomby": {
-    "criteria": {
-      "tamed_creeper_minion": "2025-07-22 22:48:02 -0300"
-    },
-    "done": true
-  },
-  "spellbladenext:spellblades/falchion": {
-    "criteria": {
-      "arcane": "2025-07-22 22:22:56 -0300"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_wraith": {
-    "criteria": {
-      "wraith": "2025-07-22 23:34:56 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:main/explore_otherside": {
-    "criteria": {
-      "overcast_columns": "2025-07-22 22:30:24 -0300",
-      "blooming_caverns": "2025-07-22 22:44:45 -0300",
-      "echoing_forest": "2025-07-22 22:39:22 -0300"
-    },
-    "done": false
-  },
-  "techreborn:recipes/crafting_table/tool/advanced_chainsaw": {
-    "criteria": {
-      "has_titanium_ingot": "2025-07-22 23:28:38 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/iridium_nugget": {
-    "criteria": {
-      "has_iridium_ingot": "2025-07-22 23:28:58 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_nugget_from_hoe": {
-    "criteria": {
-      "has_iron_hoe": "2025-07-22 22:24:26 -0300"
-    },
-    "done": true
-  },
-  "spellbladenext:spellblades/monkeyking": {
-    "criteria": {
-      "arcane": "2025-07-22 23:07:44 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/superconductor": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/titanium_storage_block": {
-    "criteria": {
-      "has_titanium_ingot": "2025-07-22 23:28:38 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/silence_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sculk_shrieker": "2025-07-22 22:04:27 -0300"
-    },
-    "done": true
-  },
   "techreborn:recipes/compressor/platinum_plate": {
     "criteria": {
       "has_tag_c_platinum_ingots": "2025-07-22 22:58:54 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/charge_o_mat": {
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_casing": {
     "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/titanium_plate": {
-    "criteria": {
-      "has_tag_c_titanium_ingots": "2025-07-22 23:28:38 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/lightning_rod": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
+      "has_industrial_machine_frame": "2025-07-22 22:59:49 -0300"
     },
     "done": true
   },
@@ -23900,15 +23816,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+  "techreborn:recipes/crafting_table/machine/distillation_tower": {
     "criteria": {
-      "has_smithing_trim_template": "2025-07-22 23:14:59 -0300"
+      "has_industrial_machine_frame": "2025-07-22 22:59:49 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/battery/lapotron_crystal": {
+  "techreborn:recipes/crafting_table/machine/fluid_replicator": {
     "criteria": {
-      "has_industrial_circuit": "2025-07-22 23:15:01 -0300"
+      "has_industrial_machine_frame": "2025-07-22 22:59:49 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/monkeyking": {
+    "criteria": {
+      "arcane": "2025-07-22 23:07:44 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_slab": {
+    "criteria": {
+      "has_gloomslate": "2025-07-22 23:10:46 -0300"
     },
     "done": true
   },
@@ -23918,33 +23846,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
-    "criteria": {
-      "has_titanium_ingot": "2025-07-22 23:28:38 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/iridium_storage_block": {
-    "criteria": {
-      "has_iridium_ingot": "2025-07-22 23:28:58 -0300"
-    },
-    "done": true
-  },
-  "adventurez:recipes/gilded_netherite_fragment_recipe": {
-    "criteria": {
-      "got_the_netherite_fragment": "2025-07-22 22:14:09 -0300"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/misc/orange_dye_from_smelting_gloomy_cactus": {
     "criteria": {
       "has_gloomy_cactus": "2025-07-22 23:10:46 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/distillation_tower": {
-    "criteria": {
-      "has_industrial_machine_frame": "2025-07-22 22:59:49 -0300"
     },
     "done": true
   },
@@ -23954,51 +23858,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/nugget/titanium_nugget": {
-    "criteria": {
-      "has_titanium_ingot": "2025-07-22 23:28:38 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/industrial_drill": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/iridium_plate": {
-    "criteria": {
-      "has_tag_c_iridium_ingots": "2025-07-22 23:28:58 -0300"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/gloomslate_slab_from_gloomslate_stonecutting": {
     "criteria": {
       "has_gloomslate": "2025-07-22 23:10:46 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
-    "criteria": {
-      "has_iridium_ingot": "2025-07-22 23:28:58 -0300"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/sonorous_staff": {
-    "criteria": {
-      "has_heart_of_the_deep": "2025-07-22 22:04:29 -0300"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/gloomslate_wall_from_gloomslate_stonecutting": {
     "criteria": {
       "has_gloomslate": "2025-07-22 23:10:46 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
-    "criteria": {
-      "has_ward_armor_trim_smithing_template": "2025-07-22 23:14:59 -0300"
     },
     "done": true
   },
@@ -24014,21 +23882,153 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/cable/superconductor_cable": {
-    "criteria": {
-      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/bloom_planks": {
     "criteria": {
       "has_logs": "2025-07-22 23:10:46 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/fluid_replicator": {
+  "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
     "criteria": {
-      "has_industrial_machine_frame": "2025-07-22 22:59:49 -0300"
+      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/superconductor": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/charge_o_mat": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lightning_rod": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_drill": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/superconductor_cable": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-07-22 23:13:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-22 23:14:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-07-22 23:14:59 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/lapotron_crystal": {
+    "criteria": {
+      "has_industrial_circuit": "2025-07-22 23:15:01 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/titanium_dust": {
+    "criteria": {
+      "has_tag_c_titanium_ingots": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/advanced_drill": {
+    "criteria": {
+      "has_titanium_ingot": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/advanced_chainsaw": {
+    "criteria": {
+      "has_titanium_ingot": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/titanium_storage_block": {
+    "criteria": {
+      "has_titanium_ingot": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/titanium_plate": {
+    "criteria": {
+      "has_tag_c_titanium_ingots": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
+    "criteria": {
+      "has_titanium_ingot": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/titanium_nugget": {
+    "criteria": {
+      "has_titanium_ingot": "2025-07-22 23:28:38 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_chip": {
+    "criteria": {
+      "has_iridium_ingot": "2025-07-22 23:28:58 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/iridium_nugget": {
+    "criteria": {
+      "has_iridium_ingot": "2025-07-22 23:28:58 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/iridium_storage_block": {
+    "criteria": {
+      "has_iridium_ingot": "2025-07-22 23:28:58 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iridium_plate": {
+    "criteria": {
+      "has_tag_c_iridium_ingots": "2025-07-22 23:28:58 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
+    "criteria": {
+      "has_iridium_ingot": "2025-07-22 23:28:58 -0300"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-07-22 23:31:37 -0300"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-07-22 23:34:56 -0300"
     },
     "done": true
   },
