@@ -752,18 +752,22 @@
       "silver_birch_forest": "2025-07-09 20:33:43 -0300",
       "shrubland": "2025-06-15 19:21:19 -0300",
       "redstone_abyss": "2025-07-03 01:02:42 -0300",
+      "fen": "2025-07-28 00:24:26 -0300",
       "pine_taiga": "2025-06-16 18:21:15 -0300",
       "autumnal_maple_forest": "2025-07-09 20:46:32 -0300",
       "muddy_river": "2025-07-09 21:28:14 -0300",
       "willow_forest": "2025-07-09 20:32:41 -0300",
       "frozen_tundra": "2025-06-20 13:50:47 -0300",
       "redstone_caves": "2025-06-19 23:48:03 -0300",
+      "poppy_fields": "2025-07-27 23:26:17 -0300",
       "grassy_beach": "2025-06-20 00:46:33 -0300",
       "blackwood_taiga": "2025-06-20 02:54:12 -0300",
       "rocky_meadow": "2025-06-20 00:48:00 -0300",
       "ochard": "2025-07-21 22:45:00 -0300",
+      "flower_fields": "2025-07-27 23:25:24 -0300",
       "highland_fields": "2025-06-15 19:43:48 -0300",
       "maple_forest": "2025-06-20 01:03:42 -0300",
+      "frozen_pine_taiga": "2025-07-28 00:03:46 -0300",
       "magnolia_highlands": "2025-06-20 00:48:11 -0300",
       "sparse_redwoods": "2025-06-20 02:53:32 -0300",
       "mountains": "2025-07-09 20:27:25 -0300",
@@ -779,6 +783,8 @@
       "gravel_beach": "2025-06-20 01:03:52 -0300",
       "redwoods": "2025-06-20 02:53:47 -0300",
       "golden_boreal_taiga": "2025-07-09 20:26:44 -0300",
+      "hyacinth_deeps": "2025-07-28 00:06:24 -0300",
+      "icy_heights": "2025-07-28 00:04:11 -0300",
       "lupine_plains": "2025-07-09 20:28:32 -0300"
     },
     "done": false
@@ -787,17 +793,21 @@
     "criteria": {
       "silver_birch_forest": "2025-07-09 20:33:43 -0300",
       "shrubland": "2025-06-15 19:21:19 -0300",
+      "fen": "2025-07-28 00:24:26 -0300",
       "pine_taiga": "2025-06-16 18:21:15 -0300",
       "autumnal_maple_forest": "2025-07-09 20:46:32 -0300",
       "muddy_river": "2025-07-09 21:28:14 -0300",
       "willow_forest": "2025-07-09 20:32:41 -0300",
       "frozen_tundra": "2025-06-20 13:50:47 -0300",
+      "poppy_fields": "2025-07-27 23:26:17 -0300",
       "grassy_beach": "2025-06-20 00:46:33 -0300",
       "blackwood_taiga": "2025-06-20 02:54:12 -0300",
       "rocky_meadow": "2025-06-20 00:48:00 -0300",
       "ochard": "2025-07-21 22:45:00 -0300",
+      "flower_fields": "2025-07-27 23:25:24 -0300",
       "highland_fields": "2025-06-15 19:43:48 -0300",
       "maple_forest": "2025-06-20 01:03:42 -0300",
+      "frozen_pine_taiga": "2025-07-28 00:03:46 -0300",
       "magnolia_highlands": "2025-06-20 00:48:11 -0300",
       "sparse_redwoods": "2025-06-20 02:53:32 -0300",
       "mountains": "2025-07-09 20:27:25 -0300",
@@ -812,6 +822,8 @@
       "gravel_beach": "2025-06-20 01:03:52 -0300",
       "redwoods": "2025-06-20 02:53:47 -0300",
       "golden_boreal_taiga": "2025-07-09 20:26:44 -0300",
+      "hyacinth_deeps": "2025-07-28 00:06:24 -0300",
+      "icy_heights": "2025-07-28 00:04:11 -0300",
       "lupine_plains": "2025-07-09 20:28:32 -0300"
     },
     "done": false
@@ -1407,6 +1419,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-06-17 17:16:09 -0300",
+      "minecraft:pillager": "2025-07-28 00:14:52 -0300",
       "minecraft:skeleton": "2025-06-15 20:59:54 -0300",
       "minecraft:ghast": "2025-06-30 21:09:52 -0300",
       "minecraft:magma_cube": "2025-06-19 22:00:29 -0300",
@@ -1609,16 +1622,21 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-07-02 20:31:48 -0300",
+      "apple": "2025-07-27 23:30:25 -0300",
+      "potato": "2025-07-27 23:27:26 -0300",
       "cooked_cod": "2025-06-20 13:53:23 -0300",
       "rabbit": "2025-07-14 21:55:14 -0300",
       "bread": "2025-06-15 19:16:41 -0300",
       "golden_apple": "2025-07-22 23:02:13 -0300",
       "suspicious_stew": "2025-06-20 01:27:08 -0300",
       "glow_berries": "2025-07-09 21:25:48 -0300",
+      "dried_kelp": "2025-07-28 00:18:26 -0300",
       "melon_slice": "2025-07-01 20:39:04 -0300",
       "enchanted_golden_apple": "2025-07-23 10:31:29 -0300",
       "mushroom_stew": "2025-06-20 03:14:14 -0300",
-      "cooked_salmon": "2025-06-20 02:56:30 -0300"
+      "cod": "2025-07-27 23:20:22 -0300",
+      "cooked_salmon": "2025-06-20 02:56:30 -0300",
+      "carrot": "2025-07-28 00:16:36 -0300"
     },
     "done": false
   },
@@ -4388,6 +4406,7 @@
       "minecraft:cherry_grove": "2025-06-15 20:02:57 -0300",
       "minecraft:sunflower_plains": "2025-07-21 22:44:35 -0300",
       "minecraft:birch_forest": "2025-06-16 18:22:14 -0300",
+      "minecraft:badlands": "2025-07-27 22:31:34 -0300",
       "minecraft:beach": "2025-06-20 00:59:57 -0300",
       "minecraft:dark_forest": "2025-06-16 18:22:43 -0300",
       "minecraft:sparse_jungle": "2025-06-20 13:09:50 -0300",
@@ -4397,14 +4416,17 @@
       "minecraft:dripstone_caves": "2025-06-17 15:21:09 -0300",
       "minecraft:snowy_taiga": "2025-07-09 21:35:48 -0300",
       "minecraft:grove": "2025-07-09 20:26:59 -0300",
+      "minecraft:swamp": "2025-07-28 00:19:52 -0300",
       "minecraft:cold_ocean": "2025-06-20 00:54:18 -0300",
       "minecraft:forest": "2025-06-16 20:31:45 -0300",
       "minecraft:deep_cold_ocean": "2025-06-20 00:57:42 -0300",
       "minecraft:frozen_ocean": "2025-06-20 13:50:17 -0300",
+      "minecraft:desert": "2025-07-27 22:15:28 -0300",
       "minecraft:jungle": "2025-06-20 02:54:45 -0300",
       "minecraft:ocean": "2025-06-20 00:46:52 -0300",
       "minecraft:old_growth_spruce_taiga": "2025-07-09 20:26:40 -0300",
       "minecraft:snowy_beach": "2025-07-09 21:29:51 -0300",
+      "minecraft:warm_ocean": "2025-07-27 22:16:27 -0300",
       "minecraft:deep_lukewarm_ocean": "2025-06-20 02:40:50 -0300",
       "minecraft:frozen_peaks": "2025-07-09 20:51:57 -0300",
       "minecraft:old_growth_birch_forest": "2025-06-16 18:21:58 -0300",
@@ -5082,12 +5104,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-06-15 19:45:23 -0300"
-    },
-    "done": true
-  },
   "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
     "criteria": {
       "has_wheat": "2025-06-15 19:45:23 -0300"
@@ -5139,12 +5155,6 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-15 19:45:23 -0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-06-15 19:45:23 -0300"
     },
     "done": true
   },
@@ -6172,6 +6182,7 @@
     "criteria": {
       "yam_seed": "2025-06-15 20:13:15 -0300",
       "hops_seed": "2025-07-01 20:31:32 -0300",
+      "rutabaga_seed": "2025-07-27 23:31:43 -0300",
       "olive_seed": "2025-06-15 20:09:32 -0300"
     },
     "done": false
@@ -6259,13 +6270,19 @@
       "blackbean_seed": "2025-06-20 02:56:37 -0300",
       "yam_seed": "2025-06-15 20:13:15 -0300",
       "hops_seed": "2025-07-01 20:31:32 -0300",
+      "chile_pepper_seed": "2025-07-27 23:23:15 -0300",
       "cabbage_seed": "2025-06-15 20:09:32 -0300",
       "olive_seed": "2025-06-15 20:09:32 -0300",
       "onion_seed": "2025-06-20 10:37:02 -0300",
       "blueberry_seed": "2025-06-16 18:22:29 -0300",
+      "rutabaga_seed": "2025-07-27 23:31:43 -0300",
       "grape_seed": "2025-06-15 22:00:04 -0300",
+      "celery_seed": "2025-07-27 23:58:59 -0300",
+      "asparagus_seed": "2025-07-27 23:23:48 -0300",
       "spinach_seed": "2025-06-20 02:56:35 -0300",
-      "corn_seed": "2025-06-15 20:35:22 -0300"
+      "blackberry_seed": "2025-07-27 23:11:40 -0300",
+      "corn_seed": "2025-06-15 20:35:22 -0300",
+      "oat_seed": "2025-07-27 23:22:26 -0300"
     },
     "done": false
   },
@@ -6319,8 +6336,10 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "chile_pepper_seed": "2025-07-27 23:23:15 -0300",
       "cabbage_seed": "2025-06-15 20:09:32 -0300",
-      "corn_seed": "2025-06-15 20:35:22 -0300"
+      "corn_seed": "2025-06-15 20:35:22 -0300",
+      "oat_seed": "2025-07-27 23:22:26 -0300"
     },
     "done": false
   },
@@ -10653,9 +10672,11 @@
   "croptopia:gather_forest": {
     "criteria": {
       "spinach_seed": "2025-06-20 02:56:35 -0300",
+      "blackberry_seed": "2025-07-27 23:11:40 -0300",
       "blackbean_seed": "2025-06-20 02:56:37 -0300",
       "blueberry_seed": "2025-06-16 18:22:29 -0300",
-      "grape_seed": "2025-06-15 22:00:04 -0300"
+      "grape_seed": "2025-06-15 22:00:04 -0300",
+      "celery_seed": "2025-07-27 23:58:59 -0300"
     },
     "done": false
   },
@@ -23157,12 +23178,6 @@
     },
     "done": true
   },
-  "mythicupgrades:recipes/misc/music_disc_soot": {
-    "criteria": {
-      "has_necessary_ingredients": "2025-07-02 21:57:36 -0300"
-    },
-    "done": true
-  },
   "supplementaries:recipes/checker_slab": {
     "criteria": {
       "has_checker_block": "2025-07-02 22:22:31 -0300"
@@ -23682,12 +23697,6 @@
   "mythicupgrades:recipes/misc/ruby_upgrade_smithing_template": {
     "criteria": {
       "has_ruby_upgrade_smithing_template": "2025-07-03 00:08:33 -0300"
-    },
-    "done": true
-  },
-  "mythicupgrades:recipes/misc/music_disc_tanker_on_the_levantines": {
-    "criteria": {
-      "has_necessary_ingredients": "2025-07-03 00:15:20 -0300"
     },
     "done": true
   },
@@ -27991,6 +28000,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/sculk": {
+    "criteria": {
+      "has_sculk_vein": "2025-07-23 10:23:57 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/silence_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sculk_shrieker": "2025-07-23 10:25:44 -0300"
+    },
+    "done": true
+  },
+  "zenith:enchanting/sculkshelf": {
+    "criteria": {
+      "soul_touched": "2025-07-23 10:46:12 -0300"
+    },
+    "done": true
+  },
   "zenith:enchanting/80ench": {
     "criteria": {
       "enchanted_item": "2025-07-23 10:49:16 -0300"
@@ -28003,27 +28030,831 @@
     },
     "done": true
   },
-  "zenith:enchanting/sculkshelf": {
-    "criteria": {
-      "soul_touched": "2025-07-23 10:46:12 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/silence_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sculk_shrieker": "2025-07-23 10:25:44 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/sculk": {
-    "criteria": {
-      "has_sculk_vein": "2025-07-23 10:23:57 -0300"
-    },
-    "done": true
-  },
   "zenith:enchanting/quanta100": {
     "criteria": {
       "enchanted_item": "2025-07-23 10:49:16 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_item": "2025-07-23 21:39:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-23 21:39:06 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-23 21:39:12 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_alt_item": "2025-07-23 21:39:12 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-23 21:39:12 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_item": "2025-07-23 21:39:12 -0300"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-07-27 23:08:51 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/brown_flag": {
+    "criteria": {
+      "has_brown_flag": "2025-07-27 23:18:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-28 00:16:44 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/red_bed_from_wool": {
+    "criteria": {
+      "has_red_wool": "2025-07-27 23:18:29 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-07-27 23:18:53 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/celery_seed": {
+    "criteria": {
+      "has_celery": "2025-07-27 23:58:59 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2025-07-27 23:18:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_cushion": {
+    "criteria": {
+      "has_purple_cushion": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/oat_seed": {
+    "criteria": {
+      "has_oat": "2025-07-27 23:22:26 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_cornish_pasty": {
+    "criteria": {
+      "has_rutabaga": "2025-07-27 23:31:43 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_sheet": {
+    "criteria": {
+      "has_purple_sheet": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-07-27 23:57:51 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/coal_generator": {
+    "criteria": {
+      "has_coal_generator": "2025-07-27 22:17:15 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-07-27 23:18:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "brewery:recipes/patterned_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-27 23:18:29 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-07-27 23:18:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_sheet": {
+    "criteria": {
+      "has_yellow_sheet": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_brown_cushion": "2025-07-27 23:18:53 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-27 22:31:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-27 23:18:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-27 23:19:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-07-27 23:57:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-07-27 23:57:51 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_brown_sheet": "2025-07-27 23:18:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/rutabaga_seed": {
+    "criteria": {
+      "has_rutabaga": "2025-07-27 23:31:43 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
+    "criteria": {
+      "has_waratah": "2025-07-27 23:25:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-27 23:18:29 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/oxidized_copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-07-27 23:57:51 -0300"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-07-27 23:32:14 -0300"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2025-07-27 22:31:33 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/lime_sleeping_bag": {
+    "criteria": {
+      "has_lime_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/brown_bed_from_wool": {
+    "criteria": {
+      "has_brown_wool": "2025-07-27 23:18:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-07-27 23:57:51 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion": {
+    "criteria": {
+      "has_blue_cushion": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_boots": {
+    "criteria": {
+      "has_brown_wool": "2025-07-27 23:18:53 -0300"
+    },
+    "done": true
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "asparagus_seed": "2025-07-27 23:23:48 -0300"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/paprika": {
+    "criteria": {
+      "has_chile_peppers": "2025-07-27 23:23:15 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/wheat_seeds_from_fern": {
+    "criteria": {
+      "has_fern": "2025-07-27 23:19:58 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_roasted_asparagus": {
+    "criteria": {
+      "has_asparagus": "2025-07-27 23:23:46 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_cheesy_asparagus": {
+    "criteria": {
+      "has_asparagus": "2025-07-27 23:23:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-27 22:19:57 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/cyan_flag": {
+    "criteria": {
+      "has_cyan_flag": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-27 23:18:29 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2025-07-27 23:18:29 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-07-27 22:16:50 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pepperoni": {
+    "criteria": {
+      "has_pepper": "2025-07-27 23:23:15 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_flag": {
+    "criteria": {
+      "has_red_flag": "2025-07-27 23:18:29 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-27 22:31:33 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_cut_sandstone": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-27 22:19:57 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2025-07-27 23:18:03 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_apron": {
+    "criteria": {
+      "has_red_wool": "2025-07-27 23:18:29 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/hyacinth_lamp": {
+    "criteria": {
+      "has_hyacinth": "2025-07-28 00:06:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-28 00:16:44 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_lime_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-07-27 23:18:03 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cushion": {
+    "criteria": {
+      "has_yellow_cushion": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/yellow_bed_from_wool": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/compressor": {
+    "criteria": {
+      "has_compressor": "2025-07-27 22:17:15 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-07-27 23:18:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-27 23:18:53 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/light_gray_bed_from_wool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/lime_sheet": {
+    "criteria": {
+      "has_lime_sheet": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-07-27 23:18:53 -0300"
+    },
+    "done": true
+  },
+  "oxidized:recipes/vertical_oxidized_cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-07-27 23:57:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-27 22:19:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-07-27 23:57:51 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/blue_flag": {
+    "criteria": {
+      "has_blue_flag": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-07-27 23:18:53 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/purple_flag": {
+    "criteria": {
+      "has_purple_flag": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blackberry_jam": {
+    "criteria": {
+      "has_blackberry": "2025-07-27 23:11:40 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/lime_flag": {
+    "criteria": {
+      "has_lime_flag": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-27 23:18:53 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/blue_bed_from_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/lime_cushion": {
+    "criteria": {
+      "has_lime_cushion": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-07-28 00:15:30 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_flag": {
+    "criteria": {
+      "has_yellow_flag": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-07-27 23:25:28 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/lime_bed_from_wool": {
+    "criteria": {
+      "has_lime_wool": "2025-07-27 23:29:10 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
+    "criteria": {
+      "has_item": "2025-07-27 22:17:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-27 22:19:57 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/chile_pepper_seed": {
+    "criteria": {
+      "has_chile_pepper": "2025-07-27 23:23:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-07-27 23:32:14 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blackberry_seed": {
+    "criteria": {
+      "has_blackberry": "2025-07-27 23:11:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-07-27 23:19:00 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/cyan_bed_from_wool": {
+    "criteria": {
+      "has_cyan_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/purple_bed_from_wool": {
+    "criteria": {
+      "has_purple_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_gray": {
+    "criteria": {
+      "has_item": "2025-07-27 22:31:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-27 23:29:18 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-27 23:29:13 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray_double": {
+    "criteria": {
+      "has_alt_item": "2025-07-27 22:31:33 -0300"
     },
     "done": true
   },

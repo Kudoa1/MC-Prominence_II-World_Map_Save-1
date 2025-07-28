@@ -1,0 +1,15 @@
+{
+	id: "291aae86-5b55-4eb5-825c-a88b81c0cd0b"
+	type: "player"
+	player_name: "DragonBeta82"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "DragonBeta82"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5E59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
