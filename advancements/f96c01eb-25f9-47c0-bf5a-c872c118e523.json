@@ -31045,6 +31045,12 @@
     },
     "done": true
   },
+  "animal_pen:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-07-30 21:17:29 -0300"
+    },
+    "done": true
+  },
   "animal_pen:recipes/animal_pen_mangrove": {
     "criteria": {
       "has_animal_cage": "2025-07-30 21:29:33 -0300"
@@ -31063,33 +31069,9 @@
     },
     "done": true
   },
-  "animal_pen:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-07-30 21:17:29 -0300"
-    },
-    "done": true
-  },
   "animal_pen:recipes/animal_pen_cherry": {
     "criteria": {
       "has_animal_cage": "2025-07-30 21:29:33 -0300"
-    },
-    "done": true
-  },
-  "animal_pen:recipes/animal_cage": {
-    "criteria": {
-      "has_crafting_table": "2025-07-30 21:54:31 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-07-30 21:52:24 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-07-30 21:35:07 -0300"
     },
     "done": true
   },
@@ -31111,51 +31093,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-07-30 21:35:07 -0300"
-    },
-    "done": true
-  },
-  "animal_pen:recipes/water_animal_container": {
-    "criteria": {
-      "has_crafting_table": "2025-07-30 21:54:31 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-07-30 21:35:07 -0300"
-    },
-    "done": true
-  },
   "animal_pen:recipes/animal_pen_bamboo": {
     "criteria": {
       "has_animal_cage": "2025-07-30 21:29:33 -0300"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-07-30 21:52:24 -0300"
-    },
-    "done": true
-  },
   "animal_pen:recipes/animal_pen_jungle": {
     "criteria": {
       "has_animal_cage": "2025-07-30 21:29:33 -0300"
-    },
-    "done": true
-  },
-  "animal_pen:recipes/guide_book": {
-    "criteria": {
-      "has_crafting_table": "2025-07-30 21:54:31 -0300"
-    },
-    "done": true
-  },
-  "croptopia:recipes/chicken_and_dumplings": {
-    "criteria": {
-      "has_chicken": "2025-07-30 21:35:07 -0300"
     },
     "done": true
   },
@@ -31171,9 +31117,339 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-30 21:35:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-30 21:35:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-30 21:35:07 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-07-30 21:35:07 -0300"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2025-07-30 21:35:07 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-07-30 21:52:24 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-07-30 21:52:24 -0300"
+    },
+    "done": true
+  },
+  "animal_pen:recipes/animal_cage": {
+    "criteria": {
+      "has_crafting_table": "2025-07-30 21:54:31 -0300"
+    },
+    "done": true
+  },
+  "animal_pen:recipes/water_animal_container": {
+    "criteria": {
+      "has_crafting_table": "2025-07-30 21:54:31 -0300"
+    },
+    "done": true
+  },
+  "animal_pen:recipes/guide_book": {
+    "criteria": {
+      "has_crafting_table": "2025-07-30 21:54:31 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_chandelier": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-07-31 13:35:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_pressure_plate": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-07-31 13:35:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_door": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-07-31 13:35:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_nuggets_from_ingot": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-07-31 13:35:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_chain": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-07-31 13:35:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_block": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-07-31 13:35:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-07-31 13:35:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bars": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-07-31 13:35:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_trapdoor": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-07-31 13:35:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_anvil": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-07-31 13:35:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern": {
+    "criteria": {
+      "has_terminite_ingot": "2025-07-31 13:35:37 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_chandelier": {
+    "criteria": {
+      "has_terminite_ingot": "2025-07-31 13:35:37 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bars": {
+    "criteria": {
+      "has_terminite_ingot": "2025-07-31 13:35:37 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_door": {
+    "criteria": {
+      "has_terminite_ingot": "2025-07-31 13:35:37 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_trapdoor": {
+    "criteria": {
+      "has_terminite_ingot": "2025-07-31 13:35:37 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_pressure_plate": {
+    "criteria": {
+      "has_terminite_ingot": "2025-07-31 13:35:37 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_chain": {
+    "criteria": {
+      "has_terminite_ingot": "2025-07-31 13:35:37 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_block": {
+    "criteria": {
+      "has_terminite_ingot": "2025-07-31 13:35:37 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_anvil": {
+    "criteria": {
+      "has_terminite_ingot": "2025-07-31 13:35:37 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_nuggets_from_ingot": {
+    "criteria": {
+      "has_terminite_ingot": "2025-07-31 13:35:37 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_pickaxe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-31 13:36:00 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_axe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-31 13:36:00 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_shovel_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-31 13:36:00 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_block": {
+    "criteria": {
+      "has_aeternium_ingot": "2025-07-31 13:36:00 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_hammer_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-31 13:36:00 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_hoe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-31 13:36:00 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_forged_plate": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-31 13:36:00 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_sword_blade": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-07-31 13:36:00 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_writable_book": {
+    "criteria": {
+      "has_writable_book": "2025-07-31 13:41:07 -0300"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-07-31 13:41:23 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-07-31 13:56:42 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-07-31 13:56:42 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-07-31 14:02:01 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-31 14:14:56 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_petal_block": {
+    "criteria": {
+      "has_item": "2025-07-31 14:14:56 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_green": {
+    "criteria": {
+      "has_item": "2025-07-31 14:14:56 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_ingot_from_steel_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-07-31 23:27:17 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 23:26:31 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-07-31 22:38:47 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_blocks": {
+    "criteria": {
+      "has_item": "2025-07-31 23:27:17 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
+    "criteria": {
+      "has_oak_plank": "2025-07-31 23:29:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
+    "criteria": {
+      "has_oak_plank": "2025-07-31 23:29:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
+    "criteria": {
+      "has_oak_plank": "2025-07-31 23:29:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
+    "criteria": {
+      "has_oak_plank": "2025-07-31 23:29:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest": {
+    "criteria": {
+      "has_oak_plank": "2025-07-31 23:29:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_barrel": {
+    "criteria": {
+      "has_oak_plank": "2025-07-31 23:29:41 -0300"
     },
     "done": true
   },

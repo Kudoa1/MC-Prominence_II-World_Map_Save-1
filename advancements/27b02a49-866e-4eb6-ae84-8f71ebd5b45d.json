@@ -27741,15 +27741,27 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+  "animal_pen:grant_book_on_first_join": {
     "criteria": {
-      "has_upgrade_base": "2025-07-31 11:19:33 -0300"
+      "tick": "2025-07-31 10:04:22 -0300"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_deposit_upgrade": {
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
-      "has_deposit_upgrade": "2025-07-31 11:26:50 -0300"
+      "has_iron_backpack": "2025-07-31 11:00:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-31 11:01:01 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-31 11:01:04 -0300"
     },
     "done": true
   },
@@ -27759,15 +27771,105 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+  "soulsweapons:recipes/combat/silver_bullet": {
+    "criteria": {
+      "has_lost_soul": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/hunter_pistol": {
+    "criteria": {
+      "has_lost_soul": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/iron_skull": {
+    "criteria": {
+      "has_item": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/infused_blackstone": {
+    "criteria": {
+      "has_item": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/soulfire_stain": {
+    "criteria": {
+      "has_item": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/blunderbuss": {
+    "criteria": {
+      "has_lost_soul": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lamp": {
+    "criteria": {
+      "has_item": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
+    "criteria": {
+      "has_item": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
+    "criteria": {
+      "has_lost_soul": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/soul_ingot": {
+    "criteria": {
+      "has_item": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
+    "criteria": {
+      "has_item": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/hunter_cannon": {
+    "criteria": {
+      "has_lost_soul": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/gatling_gun": {
+    "criteria": {
+      "has_lost_soul": "2025-07-31 11:15:17 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-07-31 11:19:21 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-07-31 11:19:21 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 11:19:33 -0300"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/silver_bullet": {
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
-      "has_lost_soul": "2025-07-31 11:15:17 -0300"
+      "has_upgrade_base": "2025-07-31 11:19:33 -0300"
     },
     "done": true
   },
@@ -27783,21 +27885,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
-    "criteria": {
-      "has_magnet_upgrade": "2025-07-31 11:27:57 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 11:19:33 -0300"
-    },
-    "done": true
-  },
-  "animal_pen:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-07-31 10:04:22 -0300"
     },
     "done": true
   },
@@ -27807,39 +27897,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/hunter_pistol": {
-    "criteria": {
-      "has_lost_soul": "2025-07-31 11:15:17 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
-    "criteria": {
-      "has_pickup_upgrade": "2025-07-31 11:27:25 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 11:19:33 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
-    "criteria": {
-      "has_compacting_upgrade": "2025-07-31 11:28:33 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-07-31 11:01:04 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
-    "criteria": {
-      "has_stack_upgrade_tier_2": "2025-07-31 11:31:12 -0300"
     },
     "done": true
   },
@@ -27849,21 +27909,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_stack_upgrade_tier_1": "2025-07-31 11:31:00 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 11:19:33 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-07-31 11:19:21 -0300"
     },
     "done": true
   },
@@ -27891,12 +27939,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
-    "criteria": {
-      "has_advanced_pickup_upgrade": "2025-07-31 11:27:30 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 11:19:33 -0300"
@@ -27912,12 +27954,6 @@
   "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 11:19:33 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/iron_skull": {
-    "criteria": {
-      "has_item": "2025-07-31 11:15:17 -0300"
     },
     "done": true
   },
@@ -27945,27 +27981,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/grinder/blue_concrete_powder_from_concrete": {
-    "criteria": {
-      "has_blue_concrete": "2025-07-31 11:40:07 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/infused_blackstone": {
-    "criteria": {
-      "has_item": "2025-07-31 11:15:17 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 11:19:33 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
-    "criteria": {
-      "has_void_upgrade": "2025-07-31 11:29:47 -0300"
     },
     "done": true
   },
@@ -27981,12 +27999,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-07-31 11:01:01 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 11:19:33 -0300"
@@ -27996,42 +28008,6 @@
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 11:19:33 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/soulfire_stain": {
-    "criteria": {
-      "has_item": "2025-07-31 11:15:17 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/blunderbuss": {
-    "criteria": {
-      "has_lost_soul": "2025-07-31 11:15:17 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-07-31 11:19:21 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/soul_lamp": {
-    "criteria": {
-      "has_item": "2025-07-31 11:15:17 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-07-31 11:00:58 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
-    "criteria": {
-      "has_pickup_upgrade": "2025-07-31 11:27:25 -0300"
     },
     "done": true
   },
@@ -28059,18 +28035,6 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
-    "criteria": {
-      "has_item": "2025-07-31 11:15:17 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
-    "criteria": {
-      "has_lost_soul": "2025-07-31 11:15:17 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 11:19:33 -0300"
@@ -28089,24 +28053,6 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/misc/soul_ingot": {
-    "criteria": {
-      "has_item": "2025-07-31 11:15:17 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
-    "criteria": {
-      "has_item": "2025-07-31 11:15:17 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/hunter_cannon": {
-    "criteria": {
-      "has_lost_soul": "2025-07-31 11:15:17 -0300"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-31 11:19:33 -0300"
@@ -28119,9 +28065,135 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/gatling_gun": {
+  "sophisticatedbackpacks:recipes/misc/advanced_deposit_upgrade": {
     "criteria": {
-      "has_lost_soul": "2025-07-31 11:15:17 -0300"
+      "has_deposit_upgrade": "2025-07-31 11:26:50 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-07-31 11:27:25 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-07-31 11:27:25 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2025-07-31 11:27:30 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-07-31 11:27:57 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
+    "criteria": {
+      "has_compacting_upgrade": "2025-07-31 11:28:33 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-07-31 11:29:47 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-07-31 11:31:00 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-07-31 11:31:12 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/blue_concrete_powder_from_concrete": {
+    "criteria": {
+      "has_blue_concrete": "2025-07-31 11:40:07 -0300"
+    },
+    "done": true
+  },
+  "rpg_series:obtain_wizard_robes": {
+    "criteria": {
+      "wizard_robes": "2025-07-31 13:58:40 -0300"
+    },
+    "done": true
+  },
+  "zenith:enchanting/max_stats": {
+    "criteria": {
+      "enchanted_item": "2025-07-31 13:27:20 -0300"
+    },
+    "done": true
+  },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2025-07-31 13:38:48 -0300"
+    },
+    "done": true
+  },
+  "zenith:enchanting/100ench": {
+    "criteria": {
+      "enchanted_item": "2025-07-31 13:27:20 -0300"
+    },
+    "done": true
+  },
+  "zenith:enchanting/max_rectified": {
+    "criteria": {
+      "enchanted_item": "2025-07-31 13:27:20 -0300"
+    },
+    "done": true
+  },
+  "zenith:enchanting/arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-07-31 13:27:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lacugrove_log": {
+    "criteria": {
+      "has_lacugrove_bark": "2025-07-31 15:59:24 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker_slab": {
+    "criteria": {
+      "has_checker_block": "2025-07-31 16:02:36 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/checker_slab": {
+    "criteria": {
+      "has_checker_block": "2025-07-31 16:02:36 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:icewhisper": {
+    "criteria": {
+      "requirement": "2025-07-31 13:38:48 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-07-31 15:42:47 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:enigma": {
+    "criteria": {
+      "requirement": "2025-07-31 14:15:30 -0300"
     },
     "done": true
   },
