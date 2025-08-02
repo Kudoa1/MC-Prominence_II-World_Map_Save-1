@@ -28640,30 +28640,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-08-02 00:49:36 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_slab": {
-    "criteria": {
-      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_wall_stonecutter": {
-    "criteria": {
-      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/red_bed_from_wool": {
-    "criteria": {
-      "has_red_wool": "2025-08-02 01:15:48 -0300"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/translucent_glaive": {
     "criteria": {
       "has_item": "2025-08-01 22:09:58 -0300"
@@ -28676,27 +28652,87 @@
     },
     "done": true
   },
-  "soulsweapons:draugr_boss": {
-    "criteria": {
-      "condition_1": "2025-08-02 00:57:38 -0300"
-    },
-    "done": false
-  },
   "soulsweapons:recipes/combat/translucent_sword": {
     "criteria": {
       "has_item": "2025-08-01 22:09:58 -0300"
     },
     "done": true
   },
-  "zenith:enchanting/seashelf": {
+  "soulsweapons:recipes/combat/soul_robes_leggings": {
     "criteria": {
-      "seashelf": "2025-08-02 01:36:15 -0300"
+      "has_item": "2025-08-01 22:09:58 -0300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/red_cushion": {
+  "soulsweapons:recipes/combat/soul_robes_chestplate": {
     "criteria": {
-      "has_red_cushion": "2025-08-02 01:15:48 -0300"
+      "has_item": "2025-08-01 22:09:58 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:58 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_helmet": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:58 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_boots": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:58 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_helmet": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:58 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_boots": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:58 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_leggings": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:58 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-08-01 22:25:07 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-08-01 22:34:33 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2025-08-01 22:36:54 -0300"
+    },
+    "done": true
+  },
+  "adventurez:blackstone_golem_advancement": {
+    "criteria": {
+      "golemkill": "2025-08-02 00:17:26 -0300"
+    },
+    "done": true
+  },
+  "adventurez:recipes/blackstone_golem_arm_recipe": {
+    "criteria": {
+      "got_the_heart": "2025-08-02 00:17:26 -0300"
     },
     "done": true
   },
@@ -28712,141 +28748,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_robes_leggings": {
+  "soulsweapons:recipes/combat/moonstone_ring_right": {
     "criteria": {
-      "has_item": "2025-08-01 22:09:58 -0300"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_red": {
-    "criteria": {
-      "has_red_wool": "2025-08-02 01:15:48 -0300"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
-    "criteria": {
-      "bosses_of_mass_destruction:void_blossom": "2025-08-02 00:51:53 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/sapphire_dust_from_block": {
-    "criteria": {
-      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-08-02 01:15:48 -0300"
-    },
-    "done": true
-  },
-  "comforts:hammock_red": {
-    "criteria": {
-      "has_red_wool": "2025-08-02 01:15:48 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-08-02 00:49:36 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/chungus_emerald": {
-    "criteria": {
-      "has_item": "2025-08-02 00:39:03 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_slab_stonecutter": {
-    "criteria": {
-      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_robes_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-01 22:09:58 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/chungus_staff": {
-    "criteria": {
-      "has_item": "2025-08-02 00:57:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2025-08-02 01:31:26 -0300"
-    },
-    "done": true
-  },
-  "simplyswords:shadowsting": {
-    "criteria": {
-      "requirement": "2025-08-01 22:36:54 -0300"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-08-01 22:34:33 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-08-02 01:15:48 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/packing_tape": {
-    "criteria": {
-      "has_slime": "2025-08-02 02:29:09 -0300"
-    },
-    "done": true
-  },
-  "adventurez:blackstone_golem_advancement": {
-    "criteria": {
-      "golemkill": "2025-08-02 00:17:26 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/jungle_barrel": {
-    "criteria": {
-      "has_jungle_plank": "2025-08-02 00:38:17 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/draugr": {
-    "criteria": {
-      "has_item": "2025-08-02 00:57:38 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-01 22:09:58 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/sapphire_plate_from_block": {
-    "criteria": {
-      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_ingot_helmet": {
-    "criteria": {
-      "has_item": "2025-08-01 22:09:58 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_stairs_stonecutter": {
-    "criteria": {
-      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
+      "has_item": "2025-08-02 00:36:48 -0300"
     },
     "done": true
   },
@@ -28856,81 +28760,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/darkmoon_longbow": {
+  "sophisticatedstorage:recipes/misc/jungle_barrel": {
     "criteria": {
-      "has_item": "2025-08-02 00:57:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-08-02 01:15:48 -0300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/red_sheet": {
-    "criteria": {
-      "has_red_sheet": "2025-08-02 01:15:48 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_ingot_boots": {
-    "criteria": {
-      "has_item": "2025-08-01 22:09:58 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
-    "criteria": {
-      "has_oak_plank": "2025-08-02 00:38:22 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
-    "criteria": {
-      "has_oak_plank": "2025-08-02 00:38:22 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
-    "criteria": {
-      "has_oak_plank": "2025-08-02 00:38:22 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
-    "criteria": {
-      "has_oak_plank": "2025-08-02 00:38:22 -0300"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/red_flag": {
-    "criteria": {
-      "has_red_flag": "2025-08-02 01:15:48 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/chungus_emerald_block": {
-    "criteria": {
-      "has_item": "2025-08-02 00:39:03 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2025-08-02 01:31:26 -0300"
-    },
-    "done": true
-  },
-  "vinery:recipes/vinemaker_apron": {
-    "criteria": {
-      "has_red_wool": "2025-08-02 01:15:48 -0300"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_village": {
-    "criteria": {
-      "location0": "2025-08-01 22:25:07 -0300"
+      "has_jungle_plank": "2025-08-02 00:38:17 -0300"
     },
     "done": true
   },
@@ -28958,63 +28790,33 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
-    "criteria": {
-      "has_red_wool": "2025-08-02 01:15:48 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/tide_armor_trim_smithing_template": {
-    "criteria": {
-      "has_prismarine_bricks": "2025-08-02 01:31:26 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/chungus_disc": {
-    "criteria": {
-      "has_item": "2025-08-02 00:39:03 -0300"
-    },
-    "done": true
-  },
-  "simplyswords:runic_weapon": {
-    "criteria": {
-      "requirement": "2025-08-02 00:59:05 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/gem/sapphire_gem_from_block": {
-    "criteria": {
-      "has_sapphire_storage_block": "2025-08-02 01:07:37 -0300"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/jungle_chest": {
     "criteria": {
       "has_jungle_plank": "2025-08-02 00:38:17 -0300"
     },
     "done": true
   },
-  "adventurez:recipes/blackstone_golem_arm_recipe": {
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
     "criteria": {
-      "got_the_heart": "2025-08-02 00:17:26 -0300"
+      "has_oak_plank": "2025-08-02 00:38:22 -0300"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_robes_helmet": {
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
     "criteria": {
-      "has_item": "2025-08-01 22:09:58 -0300"
+      "has_oak_plank": "2025-08-02 00:38:22 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_wall": {
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
     "criteria": {
-      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
+      "has_oak_plank": "2025-08-02 00:38:22 -0300"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/moonstone_ring_right": {
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
     "criteria": {
-      "has_item": "2025-08-02 00:36:48 -0300"
+      "has_oak_plank": "2025-08-02 00:38:22 -0300"
     },
     "done": true
   },
@@ -29024,39 +28826,45 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_robes_boots": {
-    "criteria": {
-      "has_item": "2025-08-01 22:09:58 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
-    "criteria": {
-      "has_prismarine_bricks": "2025-08-02 01:31:26 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_ingot_leggings": {
-    "criteria": {
-      "has_item": "2025-08-01 22:09:58 -0300"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-08-02 00:38:22 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+  "soulsweapons:recipes/misc/chungus_emerald": {
     "criteria": {
-      "has_prismarine_bricks": "2025-08-02 01:31:26 -0300"
+      "has_item": "2025-08-02 00:39:03 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_stairs": {
+  "soulsweapons:recipes/building_blocks/chungus_emerald_block": {
     "criteria": {
-      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
+      "has_item": "2025-08-02 00:39:03 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/chungus_disc": {
+    "criteria": {
+      "has_item": "2025-08-02 00:39:03 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-08-02 00:49:36 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-08-02 00:49:36 -0300"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-08-02 00:51:53 -0300"
     },
     "done": true
   },
@@ -29066,9 +28874,340 @@
     },
     "done": true
   },
+  "soulsweapons:draugr_boss": {
+    "criteria": {
+      "condition_1": "2025-08-02 00:57:38 -0300"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/chungus_staff": {
+    "criteria": {
+      "has_item": "2025-08-02 00:57:38 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draugr": {
+    "criteria": {
+      "has_item": "2025-08-02 00:57:38 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkmoon_longbow": {
+    "criteria": {
+      "has_item": "2025-08-02 00:57:38 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:runic_weapon": {
+    "criteria": {
+      "requirement": "2025-08-02 00:59:05 -0300"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_composter": {
     "criteria": {
       "has_lacugrove_slab": "2025-08-02 01:05:59 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_slab": {
+    "criteria": {
+      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sapphire_dust_from_block": {
+    "criteria": {
+      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/sapphire_plate_from_block": {
+    "criteria": {
+      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/gem/sapphire_gem_from_block": {
+    "criteria": {
+      "has_sapphire_storage_block": "2025-08-02 01:07:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_wall": {
+    "criteria": {
+      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_sapphire_blocks": "2025-08-02 01:07:37 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/red_bed_from_wool": {
+    "criteria": {
+      "has_red_wool": "2025-08-02 01:15:48 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2025-08-02 01:15:48 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-08-02 01:15:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-08-02 01:15:48 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-08-02 01:15:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-08-02 01:15:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-08-02 01:15:48 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2025-08-02 01:15:48 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_flag": {
+    "criteria": {
+      "has_red_flag": "2025-08-02 01:15:48 -0300"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_apron": {
+    "criteria": {
+      "has_red_wool": "2025-08-02 01:15:48 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-08-02 01:15:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-08-02 01:31:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-08-02 01:31:26 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-08-02 01:31:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-08-02 01:31:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-08-02 01:31:26 -0300"
+    },
+    "done": true
+  },
+  "zenith:enchanting/seashelf": {
+    "criteria": {
+      "seashelf": "2025-08-02 01:36:15 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-08-02 02:29:09 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-08-02 16:27:16 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_netherite_ingots": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-02 15:24:21 -0300"
+    },
+    "done": true
+  },
+  "more_armor_trims:trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_more_armor_trims:nihility_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:34:29 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2025-08-02 12:54:19 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_alt_item": "2025-08-02 16:27:16 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_iron_block": {
+    "criteria": {
+      "has_netherite_iron_ingot": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_petal_block": {
+    "criteria": {
+      "has_item": "2025-08-02 16:27:16 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/obtain_netherite_iron_ingot": {
+    "criteria": {
+      "netherite_iron_ingot": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green_double": {
+    "criteria": {
+      "has_alt_item": "2025-08-02 16:27:16 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_green": {
+    "criteria": {
+      "has_item": "2025-08-02 16:27:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:35:52 -0300"
+    },
+    "done": true
+  },
+  "more_armor_trims:trim_with_all_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_more_armor_trims:nihility_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:34:29 -0300",
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:35:52 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-08-02 15:24:21 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-08-02 12:44:52 -0300"
     },
     "done": true
   },
