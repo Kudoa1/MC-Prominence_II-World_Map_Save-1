@@ -1444,6 +1444,7 @@
       "minecraft:piglin": "2025-07-09 20:57:50 -0300",
       "minecraft:enderman": "2025-06-15 21:43:12 -0300",
       "minecraft:silverfish": "2025-07-23 10:29:45 -0300",
+      "minecraft:stray": "2025-08-02 00:45:34 -0300",
       "minecraft:zombie": "2025-06-15 19:10:38 -0300",
       "minecraft:zombie_villager": "2025-06-15 21:31:51 -0300"
     },
@@ -31450,6 +31451,168 @@
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-07-31 23:29:41 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/menger_sponge_smelting": {
+    "criteria": {
+      "has_block.betterend.menger_sponge_wet": "2025-08-01 22:32:08 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_1": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-01 22:14:33 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_2": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-01 22:14:33 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_3": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-01 22:14:33 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_4": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-01 22:14:33 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_glaive": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_double_greatsword": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:draugr_boss": {
+    "criteria": {
+      "condition_0": "2025-08-02 00:57:08 -0300"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/translucent_sword": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_leggings": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_barrel": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-01 22:14:33 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/chungus_emerald": {
+    "criteria": {
+      "has_item": "2025-08-02 00:38:42 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-02 00:46:24 -0300"
+    },
+    "done": true
+  },
+  "adventurez:blackstone_golem_advancement": {
+    "criteria": {
+      "golemkill": "2025-08-02 00:19:53 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/charnia_red_dye": {
+    "criteria": {
+      "has_charnia_red": "2025-08-01 23:00:29 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_chest": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-01 22:14:33 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_helmet": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_boots": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/chungus_emerald_block": {
+    "criteria": {
+      "has_item": "2025-08-02 00:38:42 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/chungus_disc": {
+    "criteria": {
+      "has_item": "2025-08-02 00:38:42 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:runic_weapon": {
+    "criteria": {
+      "requirement": "2025-08-02 00:59:35 -0300"
+    },
+    "done": true
+  },
+  "adventurez:recipes/blackstone_golem_arm_recipe": {
+    "criteria": {
+      "got_the_heart": "2025-08-02 00:19:53 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_helmet": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_boots": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_leggings": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
     },
     "done": true
   },
