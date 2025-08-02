@@ -31393,9 +31393,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/steel_ingot_from_steel_block": {
+  "sophisticatedstorage:recipes/misc/packing_tape": {
     "criteria": {
-      "has_steel_ingot": "2025-07-31 23:27:17 -0300"
+      "has_slime": "2025-07-31 22:38:47 -0300"
     },
     "done": true
   },
@@ -31405,9 +31405,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/packing_tape": {
+  "ad_astra:recipes/misc/steel_ingot_from_steel_block": {
     "criteria": {
-      "has_slime": "2025-07-31 22:38:47 -0300"
+      "has_steel_ingot": "2025-07-31 23:27:17 -0300"
     },
     "done": true
   },
