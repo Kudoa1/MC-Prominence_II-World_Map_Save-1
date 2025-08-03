@@ -1429,6 +1429,7 @@
       "minecraft:blaze": "2025-06-17 17:16:09 -0300",
       "minecraft:pillager": "2025-07-28 00:14:52 -0300",
       "minecraft:skeleton": "2025-06-15 20:59:54 -0300",
+      "minecraft:ravager": "2025-08-03 01:48:04 -0300",
       "minecraft:ghast": "2025-06-30 21:09:52 -0300",
       "minecraft:vindicator": "2025-07-29 21:04:21 -0300",
       "minecraft:magma_cube": "2025-06-19 22:00:29 -0300",
@@ -1438,6 +1439,7 @@
       "minecraft:slime": "2025-06-19 23:36:27 -0300",
       "minecraft:phantom": "2025-06-16 19:54:23 -0300",
       "minecraft:zombified_piglin": "2025-06-16 22:00:50 -0300",
+      "minecraft:witch": "2025-08-03 02:04:08 -0300",
       "minecraft:wither_skeleton": "2025-06-17 17:14:30 -0300",
       "minecraft:ender_dragon": "2025-07-29 11:20:39 -0300",
       "minecraft:cave_spider": "2025-06-19 23:26:03 -0300",
@@ -1633,6 +1635,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-07-02 20:31:48 -0300",
+      "porkchop": "2025-08-03 01:58:13 -0300",
       "apple": "2025-07-27 23:30:25 -0300",
       "potato": "2025-07-27 23:27:26 -0300",
       "cooked_cod": "2025-06-20 13:53:23 -0300",
@@ -1642,6 +1645,7 @@
       "suspicious_stew": "2025-06-20 01:27:08 -0300",
       "glow_berries": "2025-07-09 21:25:48 -0300",
       "dried_kelp": "2025-07-28 00:18:26 -0300",
+      "salmon": "2025-08-03 01:57:53 -0300",
       "melon_slice": "2025-07-01 20:39:04 -0300",
       "enchanted_golden_apple": "2025-07-23 10:31:29 -0300",
       "mushroom_stew": "2025-06-20 03:14:14 -0300",
@@ -4436,6 +4440,7 @@
       "minecraft:deep_cold_ocean": "2025-06-20 00:57:42 -0300",
       "minecraft:frozen_ocean": "2025-06-20 13:50:17 -0300",
       "minecraft:desert": "2025-07-27 22:15:28 -0300",
+      "minecraft:deep_frozen_ocean": "2025-08-03 01:54:00 -0300",
       "minecraft:jungle": "2025-06-20 02:54:45 -0300",
       "minecraft:ocean": "2025-06-20 00:46:52 -0300",
       "minecraft:old_growth_spruce_taiga": "2025-07-09 20:26:40 -0300",
@@ -4461,6 +4466,7 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-06-15 19:55:18 -0300",
+      "opened_shulker": "2025-08-02 21:59:04 -0300",
       "opened_chest": "2025-06-15 19:44:52 -0300"
     },
     "done": false
@@ -20032,7 +20038,9 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "joshua_log": "2025-08-03 14:11:09 -0300",
       "magnolia_log": "2025-06-20 00:51:13 -0300",
+      "eucalyptus_log": "2025-08-03 14:11:08 -0300",
       "maple_log": "2025-06-20 10:48:45 -0300"
     },
     "done": false
@@ -20135,6 +20143,7 @@
   },
   "beachparty:main/get_all_artifacts": {
     "criteria": {
+      "beachparty:floaty_boat": "2025-08-03 06:07:40 -0300",
       "beachparty:trunks": "2025-06-20 02:17:33 -0300",
       "beachparty:sunglasses": "2025-06-20 02:44:05 -0300",
       "beachparty:swim_wings": "2025-06-20 01:36:22 -0300",
@@ -20147,10 +20156,11 @@
       "beachparty:rubber_ring_axolotl": "2025-06-20 01:27:33 -0300",
       "beachparty:rubber_ring_pelican": "2025-06-20 10:17:39 -0300"
     },
-    "done": false
+    "done": true
   },
   "beachparty:main/hoarder": {
     "criteria": {
+      "beachparty:floaty_boat": "2025-08-03 06:07:40 -0300",
       "beachparty:trunks": "2025-06-20 02:17:33 -0300",
       "beachparty:swim_wings": "2025-06-20 01:36:22 -0300",
       "beachparty:crocs": "2025-06-20 01:24:03 -0300",
@@ -22336,7 +22346,8 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
-      "darkin_blade": "2025-06-30 21:01:04 -0300"
+      "darkin_blade": "2025-06-30 21:01:04 -0300",
+      "draugr": "2025-08-03 10:19:51 -0300"
     },
     "done": false
   },
@@ -28797,7 +28808,8 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "killed_illusioner": "2025-07-27 23:32:14 -0300"
+      "killed_illusioner": "2025-07-27 23:32:14 -0300",
+      "killed_iceologer": "2025-08-03 01:53:03 -0300"
     },
     "done": false
   },
@@ -28965,6 +28977,7 @@
   },
   "betterend:all_elytras": {
     "criteria": {
+      "crystalite": "2025-08-02 21:11:54 -0300",
       "vanilla": "2025-07-29 11:24:00 -0300"
     },
     "done": false
@@ -29695,6 +29708,7 @@
       "betterend:ice_starfield": "2025-07-29 16:10:45 -0300",
       "betterend:glowing_grasslands": "2025-07-29 15:22:45 -0300",
       "betterend:lush_aurora_cave": "2025-07-29 18:34:59 -0300",
+      "betterend:jade_cave": "2025-08-02 21:07:08 -0300",
       "betterend:dragon_graveyards": "2025-07-29 18:33:06 -0300",
       "betterend:megalake_grove": "2025-07-29 16:13:05 -0300",
       "betterend:umbra_valley": "2025-07-29 16:11:04 -0300",
@@ -29821,12 +29835,16 @@
   },
   "betterend:all_the_templates": {
     "criteria": {
+      "got_netherite": "2025-08-03 11:41:12 -0300",
+      "got_leather": "2025-08-02 22:10:40 -0300",
+      "got_plate": "2025-08-03 11:41:12 -0300",
       "got_aeternium": "2025-07-29 16:23:30 -0300",
       "got_handle": "2025-07-29 16:23:31 -0300",
       "got_tool": "2025-07-29 16:24:01 -0300",
-      "got_terminite": "2025-07-29 16:23:31 -0300"
+      "got_terminite": "2025-07-29 16:23:31 -0300",
+      "got_thallasium": "2025-08-03 11:41:03 -0300"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
@@ -31454,9 +31472,69 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/menger_sponge_smelting": {
+  "soulsweapons:recipes/combat/translucent_glaive": {
     "criteria": {
-      "has_block.betterend.menger_sponge_wet": "2025-08-01 22:32:08 -0300"
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_double_greatsword": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_sword": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_leggings": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_helmet": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_boots": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_helmet": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_boots": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_leggings": {
+    "criteria": {
+      "has_item": "2025-08-01 22:09:16 -0300"
     },
     "done": true
   },
@@ -31484,69 +31562,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/translucent_glaive": {
-    "criteria": {
-      "has_item": "2025-08-01 22:09:16 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/translucent_double_greatsword": {
-    "criteria": {
-      "has_item": "2025-08-01 22:09:16 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:draugr_boss": {
-    "criteria": {
-      "condition_0": "2025-08-02 00:57:08 -0300"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/combat/translucent_sword": {
-    "criteria": {
-      "has_item": "2025-08-01 22:09:16 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_robes_leggings": {
-    "criteria": {
-      "has_item": "2025-08-01 22:09:16 -0300"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/bamboo_barrel": {
     "criteria": {
       "has_bamboo_plank": "2025-08-01 22:14:33 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/chungus_emerald": {
-    "criteria": {
-      "has_item": "2025-08-02 00:38:42 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_robes_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-01 22:09:16 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-08-02 00:46:24 -0300"
-    },
-    "done": true
-  },
-  "adventurez:blackstone_golem_advancement": {
-    "criteria": {
-      "golemkill": "2025-08-02 00:19:53 -0300"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/charnia_red_dye": {
-    "criteria": {
-      "has_charnia_red": "2025-08-01 23:00:29 -0300"
     },
     "done": true
   },
@@ -31556,21 +31574,33 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+  "betterend:recipes/misc/menger_sponge_smelting": {
     "criteria": {
-      "has_item": "2025-08-01 22:09:16 -0300"
+      "has_block.betterend.menger_sponge_wet": "2025-08-01 22:32:08 -0300"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_ingot_helmet": {
+  "betterend:recipes/misc/charnia_red_dye": {
     "criteria": {
-      "has_item": "2025-08-01 22:09:16 -0300"
+      "has_charnia_red": "2025-08-01 23:00:29 -0300"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_ingot_boots": {
+  "adventurez:blackstone_golem_advancement": {
     "criteria": {
-      "has_item": "2025-08-01 22:09:16 -0300"
+      "golemkill": "2025-08-02 00:19:53 -0300"
+    },
+    "done": true
+  },
+  "adventurez:recipes/blackstone_golem_arm_recipe": {
+    "criteria": {
+      "got_the_heart": "2025-08-02 00:19:53 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/chungus_emerald": {
+    "criteria": {
+      "has_item": "2025-08-02 00:38:42 -0300"
     },
     "done": true
   },
@@ -31586,33 +31616,2385 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-02 00:46:24 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:draugr_boss": {
+    "criteria": {
+      "condition_0": "2025-08-02 00:57:08 -0300"
+    },
+    "done": false
+  },
   "simplyswords:runic_weapon": {
     "criteria": {
       "requirement": "2025-08-02 00:59:35 -0300"
     },
     "done": true
   },
-  "adventurez:recipes/blackstone_golem_arm_recipe": {
+  "betterend:infusion_finished": {
     "criteria": {
-      "got_the_heart": "2025-08-02 00:19:53 -0300"
+      "finished": "2025-08-02 21:06:27 -0300"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_robes_helmet": {
+  "lootr:1shulker": {
     "criteria": {
-      "has_item": "2025-08-01 22:09:16 -0300"
+      "opened_shulker": "2025-08-02 21:59:04 -0300"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_robes_boots": {
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
     "criteria": {
-      "has_item": "2025-08-01 22:09:16 -0300"
+      "has_obsidian_heart": "2025-08-02 21:59:08 -0300"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_ingot_leggings": {
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
     "criteria": {
-      "has_item": "2025-08-01 22:09:16 -0300"
+      "comb_cutter_tool": "2025-08-02 22:39:42 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-02 22:49:11 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-02 22:49:11 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_jukebox_upgrade_from_backpack_advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-02 22:50:18 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-08-02 22:51:10 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_jukebox_upgrade_from_backpack_jukebox_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-02 22:51:10 -0300"
+    },
+    "done": true
+  },
+  "prominent:molten_core": {
+    "criteria": {
+      "requirement": "2025-08-03 00:37:42 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-08-03 01:11:10 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/abyssal_amethyst": {
+    "criteria": {
+      "has_item": "2025-08-03 01:37:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-03 01:43:59 -0300"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-08-03 01:53:03 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-08-03 01:54:00 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/astral_dust": {
+    "criteria": {
+      "has_item": "2025-08-03 01:54:33 -0300"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
+    "criteria": {
+      "has_totem_of_undying": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-03 01:54:34 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-03 01:55:02 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-03 01:55:02 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-03 01:55:02 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-03 01:55:02 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-03 01:55:02 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-03 01:55:02 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-08-03 01:55:35 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sharp_bones": {
+    "criteria": {
+      "has_item": "2025-08-03 01:56:00 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-08-03 01:56:49 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-08-03 01:57:35 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-08-03 01:57:35 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/gray_coffin": {
+    "criteria": {
+      "has_item": "2025-08-03 02:19:52 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
+    "criteria": {
+      "has_soul_sandstone": "2025-08-03 03:39:56 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_smelting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-03 03:39:56 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_stairs": {
+    "criteria": {
+      "has_soul_sandstone": "2025-08-03 03:39:56 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-03 03:39:56 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-03 03:39:56 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-03 03:39:56 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_slab": {
+    "criteria": {
+      "has_soul_sandstone": "2025-08-03 03:39:56 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-03 03:46:14 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-03 03:46:14 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-03 03:46:14 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-03 03:46:14 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-03 03:46:14 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-03 03:46:14 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-03 03:46:14 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-03 03:46:14 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-03 03:46:14 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-03 03:46:38 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-03 03:46:38 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-03 03:46:38 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2025-08-03 03:46:38 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-03 03:46:38 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2025-08-03 03:46:38 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-08-03 03:46:38 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2025-08-03 03:54:15 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2025-08-03 04:25:25 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_gold_tier_upgrade": "2025-08-03 04:25:40 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2025-08-03 04:28:03 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_4_from_backpack_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-08-03 04:28:03 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_5": {
+    "criteria": {
+      "has_stack_upgrade_tier_4": "2025-08-03 04:28:30 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_3_from_storage_stack_upgrade_tier_4": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-08-03 04:28:30 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_2_from_storage_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-08-03 04:29:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2025-08-03 04:29:48 -0300"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-08-03 04:29:59 -0300"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-08-03 04:29:59 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
+    "criteria": {
+      "has_diamond_block": "2025-08-03 04:29:59 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-03 04:29:59 -0300"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-08-03 04:29:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-03 04:29:59 -0300"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-08-03 04:29:59 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/compression_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/decoration_table": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 04:34:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-08-03 04:34:50 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/advanced_hopper_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-08-03 04:34:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_barrel": {
+    "criteria": {
+      "has_gold_barrel": "2025-08-03 04:41:20 -0300"
+    },
+    "done": true
+  },
+  "minecells:unlock/have_64_cells": {
+    "criteria": {
+      "requirement": "2025-08-03 04:54:06 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_advanced_compacting_upgrade_from_storage_advanced_compacting_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-08-03 05:10:20 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_nugget": {
+    "criteria": {
+      "has_steel_nugget": "2025-08-03 05:10:57 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/food/peridot_potion": {
+    "criteria": {
+      "has_peridot_crystal_shard": "2025-08-03 05:13:35 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-03 05:21:27 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/rolling_machine/nichrome_heating_coil": {
+    "criteria": {
+      "has_chrome_ingot": "2025-08-03 05:23:01 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/chrome_nugget": {
+    "criteria": {
+      "has_chrome_ingot": "2025-08-03 05:23:01 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/chrome_dust": {
+    "criteria": {
+      "has_tag_c_chromium_ingots": "2025-08-03 05:23:01 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/chrome_plate": {
+    "criteria": {
+      "has_tag_c_chromium_ingots": "2025-08-03 05:23:01 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/chrome_storage_block": {
+    "criteria": {
+      "has_chrome_ingot": "2025-08-03 05:23:01 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/amber_block": {
+    "criteria": {
+      "has_amber_gem": "2025-08-03 05:23:09 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_gold_to_diamond_tier_upgrade": "2025-08-03 05:24:55 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2025-08-03 05:47:06 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_ore": "2025-08-03 05:56:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-08-03 05:56:52 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_ore_smelting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_ore": "2025-08-03 05:56:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-08-03 05:56:52 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_ingot_furnace_ore_smelting": {
+    "criteria": {
+      "has_block.betterend.thallasium_ore": "2025-08-03 05:56:53 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_ingot_furnace_ore_blasting": {
+    "criteria": {
+      "has_block.betterend.thallasium_ore": "2025-08-03 05:56:53 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/necoium_ingot_from_blasting_necoium_ore": {
+    "criteria": {
+      "has_necoium_ore": "2025-08-03 05:57:08 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/pyrite_dust_from_pyrite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_pyrite_ores": "2025-08-03 05:57:08 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/peridot_gem_from_peridot_ore_with_water": {
+    "criteria": {
+      "has_tag_c_peridot_ores": "2025-08-03 05:57:08 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/peridot_dust_from_ore": {
+    "criteria": {
+      "has_tag_c_peridot_ores": "2025-08-03 05:57:08 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/refined_iron_ingot_from_pyrite_ore": {
+    "criteria": {
+      "has_pyrite_ore": "2025-08-03 05:57:08 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/necoium_ingot_from_smelting_necoium_ore": {
+    "criteria": {
+      "has_necoium_ore": "2025-08-03 05:57:08 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/jade_from_blasting_jade_ore": {
+    "criteria": {
+      "has_jade_ore": "2025-08-03 05:57:16 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/cinnabar_dust_from_cinnabar_ore_with_water": {
+    "criteria": {
+      "has_tag_c_cinnabar_ores": "2025-08-03 05:57:16 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/jade_from_smelting_jade_ore": {
+    "criteria": {
+      "has_jade_ore": "2025-08-03 05:57:16 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/ametrine_from_blasting_ametrine_ore": {
+    "criteria": {
+      "has_ametrine_ore": "2025-08-03 05:57:17 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/ametrine_from_smelting_ametrine_ore": {
+    "criteria": {
+      "has_ametrine_ore": "2025-08-03 05:57:17 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tungsten_storage_block": {
+    "criteria": {
+      "has_raw_tungsten": "2025-08-03 05:58:51 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/raw_tungsten": {
+    "criteria": {
+      "has_raw_tungsten": "2025-08-03 05:58:51 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/tungsten_small_dust_from_dust": {
+    "criteria": {
+      "has_raw_tungsten": "2025-08-03 05:58:51 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/building_blocks/raw_necoium_block": {
+    "criteria": {
+      "has_raw_necoium": "2025-08-03 05:59:24 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/necoium_ingot_from_smelting_raw_necoium": {
+    "criteria": {
+      "has_raw_necoium": "2025-08-03 05:59:24 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/necoium_ingot_from_blasting_raw_necoium": {
+    "criteria": {
+      "has_raw_necoium": "2025-08-03 05:59:24 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/jade_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-08-03 06:00:09 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/ametrine_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-08-03 06:01:50 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/amber_gem": {
+    "criteria": {
+      "has_raw_amber": "2025-08-03 06:01:54 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_slab": {
+    "criteria": {
+      "has_gloomslate": "2025-08-03 10:09:33 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_wall": {
+    "criteria": {
+      "has_gloomslate": "2025-08-03 10:09:33 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-08-03 10:09:33 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_slab_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-08-03 10:09:33 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_wall_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-08-03 10:09:33 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate_from_smelting_gloomslate": {
+    "criteria": {
+      "has_gloomslate": "2025-08-03 10:09:33 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs": {
+    "criteria": {
+      "has_gloomslate": "2025-08-03 10:09:33 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/bloom_planks": {
+    "criteria": {
+      "has_logs": "2025-08-03 10:09:33 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2025-08-03 10:18:38 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_white_industrial_lamp": {
+    "criteria": {
+      "has_small_white_industrial_lamp": "2025-08-03 10:21:38 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_industrial_lamp": {
+    "criteria": {
+      "has_white_industrial_lamp": "2025-08-03 10:21:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-08-03 10:21:41 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_tube_coral_fan": {
+    "criteria": {
+      "has_tube_coral_fan": "2025-08-03 10:21:51 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_tube_coral": {
+    "criteria": {
+      "has_tube_coral": "2025-08-03 10:21:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_3_from_backpack_stack_upgrade_tier_2": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-08-03 10:21:52 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-08-03 10:21:52 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2025-08-03 10:21:59 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-08-03 10:21:59 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2025-08-03 10:21:59 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/orange_shulker_box_to_sophisticated": {
+    "criteria": {
+      "has_orange_shulker_box": "2025-08-03 10:22:06 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon_smithing": {
+    "criteria": {
+      "has_melon": "2025-08-03 10:22:18 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/lime_shulker_box_to_sophisticated": {
+    "criteria": {
+      "has_lime_shulker_box": "2025-08-03 10:22:18 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_horn_coral_fan": {
+    "criteria": {
+      "has_horn_coral_fan": "2025-08-03 10:22:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/light_blue_shulker_box_to_sophisticated": {
+    "criteria": {
+      "has_light_blue_shulker_box": "2025-08-03 10:22:25 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/green_industrial_lamp": {
+    "criteria": {
+      "has_green_industrial_lamp": "2025-08-03 10:22:26 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_green_industrial_lamp": {
+    "criteria": {
+      "has_small_green_industrial_lamp": "2025-08-03 10:22:26 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_barrel": {
+    "criteria": {
+      "has_diamond_barrel": "2025-08-03 10:23:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-08-03 10:50:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-03 10:50:05 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/black_shulker_box_to_sophisticated": {
+    "criteria": {
+      "has_black_shulker_box": "2025-08-03 10:52:02 -0300"
+    },
+    "done": true
+  },
+  "alloy_forgery:recipes/alloy_forgery/gold_block": {
+    "criteria": {
+      "has_raw_gold_ore_block": "2025-08-03 10:52:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-08-03 10:52:12 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/furnace_minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2025-08-03 11:00:53 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2025-08-03 11:00:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-03 11:41:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-08-03 11:41:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2025-08-03 11:41:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-03 11:41:03 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/topaz_upgrade_smithing_template": {
+    "criteria": {
+      "has_topaz_upgrade_smithing_template": "2025-08-03 11:41:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-08-03 11:41:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-03 11:41:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-03 11:41:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-08-03 11:41:06 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/ametrine_upgrade_smithing_template": {
+    "criteria": {
+      "has_ametrine_upgrade_smithing_template": "2025-08-03 11:41:10 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2025-08-03 12:01:00 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2025-08-03 12:01:00 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2025-08-03 12:01:00 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-08-03 12:01:00 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2025-08-03 12:01:00 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-08-03 12:01:00 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-08-03 12:38:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-08-03 12:38:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_smooth_sky_stone": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-08-03 12:38:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-08-03 12:38:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-08-03 12:38:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_small_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-08-03 12:38:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/smooth_sky_stone_stairs": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-08-03 12:38:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_brick": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-08-03 12:38:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/smooth_sky_stone_slab": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-08-03 12:38:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/smooth_sky_stone_wall": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-08-03 12:38:45 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2025-08-03 12:39:34 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-03 12:41:41 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/misctools_charged_staff": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-03 12:41:41 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-08-03 12:41:41 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-03 12:41:41 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/misctools_entropy_manipulator": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-03 12:42:52 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/tunnels_me": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-03 12:42:52 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/storage_drive": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-03 12:42:52 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/spatial_components": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-03 12:42:52 -0300"
+    },
+    "done": true
+  },
+  "merequester:recipes/requester": {
+    "criteria": {
+      "has_item": "2025-08-03 12:42:52 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/quantum_ring": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-03 12:42:52 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/controller": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-03 12:42:52 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/spatial_io_port": {
+    "criteria": {
+      "has_engineering_processor": "2025-08-03 12:42:52 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_sword": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/fluixpearl": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_upgrade_smithing_template": {
+    "criteria": {
+      "has_fluix_crystal": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_acceptor": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/fluix_block": {
+    "criteria": {
+      "has_fluix_crystal": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/storage_chest": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_fluix": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/spatial_io_pylon": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/fluix_dust": {
+    "criteria": {
+      "has_fluix_crystal": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "extendedae:recipes/misc/crystal_fixer": {
+    "criteria": {
+      "has_item": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_axe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_pickaxe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_shovel": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_hoe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crystal_processing_charger": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/inscribers": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-03 12:43:28 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2025-08-03 12:43:47 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/toggle_bus": {
+    "criteria": {
+      "has_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_blue": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/network/cell_dock": {
+    "criteria": {
+      "has_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
+    "criteria": {
+      "has_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_fluix": {
+    "criteria": {
+      "has_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_fluix_clean": {
+    "criteria": {
+      "has_glass_cable": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2025-08-03 12:57:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_brown": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_fluix_clean": {
+    "criteria": {
+      "has_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_yellow": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_light_gray": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_cyan": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_light_blue": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_pink": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_magenta": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_orange": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_purple": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_green": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_white": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_gray": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_fluix": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_red": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_black": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_lime": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_blue": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-08-03 12:57:35 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_cyan": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-08-03 12:58:04 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix_clean": {
+    "criteria": {
+      "has_smart_cable": "2025-08-03 12:58:04 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_purple": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-08-03 12:58:04 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_light_blue": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-08-03 12:58:04 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_gray": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-08-03 12:58:04 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_from_smart": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-08-03 12:58:04 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_pink": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-08-03 12:58:04 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_orange": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-08-03 12:58:04 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_light_gray": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-08-03 12:58:04 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
+    "criteria": {
+      "has_quartz_glass": "2025-08-03 12:59:39 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/panels_semi_dark_monitor": {
+    "criteria": {
+      "has_quartz_glass": "2025-08-03 12:59:39 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/monitors_storage": {
+    "criteria": {
+      "has_illuminated_panel": "2025-08-03 13:00:43 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals": {
+    "criteria": {
+      "has_illuminated_panel": "2025-08-03 13:00:43 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/panels_monitor": {
+    "criteria": {
+      "has_semi_dark_monitor": "2025-08-03 13:00:43 -0300"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/crafting/mega_crafting_unit": {
+    "criteria": {
+      "has_logic_processor": "2025-08-03 13:05:03 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/annihilationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-08-03 13:05:03 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/formationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-08-03 13:05:03 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_1k_part": {
+    "criteria": {
+      "has_logic_processor": "2025-08-03 13:05:03 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/io_condenser": {
+    "criteria": {
+      "has_dusts/fluix": "2025-08-03 13:09:42 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/export_bus": {
+    "criteria": {
+      "has_formation_core": "2025-08-03 13:10:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/formation_plane_alt": {
+    "criteria": {
+      "has_formation_core": "2025-08-03 13:10:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/interfaces_interface": {
+    "criteria": {
+      "has_formation_core": "2025-08-03 13:10:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/pattern_providers_interface": {
+    "criteria": {
+      "has_formation_core": "2025-08-03 13:10:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/matter_cannon": {
+    "criteria": {
+      "has_formation_core": "2025-08-03 13:10:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_color_applicator": {
+    "criteria": {
+      "has_formation_core": "2025-08-03 13:10:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/formation_plane": {
+    "criteria": {
+      "has_formation_core": "2025-08-03 13:10:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/molecular_assembler": {
+    "criteria": {
+      "has_formation_core": "2025-08-03 13:10:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/import_bus": {
+    "criteria": {
+      "has_annihilation_core": "2025-08-03 13:11:18 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/annihilation_plane_alt": {
+    "criteria": {
+      "has_annihilation_core": "2025-08-03 13:11:18 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/annihilation_plane_alt2": {
+    "criteria": {
+      "has_annihilation_core": "2025-08-03 13:11:18 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/view_cell_storage": {
+    "criteria": {
+      "has_terminal": "2025-08-03 13:11:47 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/view_cell": {
+    "criteria": {
+      "has_terminal": "2025-08-03 13:11:47 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/wireless_terminal": {
+    "criteria": {
+      "has_terminal": "2025-08-03 13:11:47 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_crafting": {
+    "criteria": {
+      "has_terminal": "2025-08-03 13:11:47 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/upgrade_wireless_crafting_terminal": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-03 13:13:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_memory_card": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-03 13:13:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/level_emitter": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-03 13:13:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/advancedcard": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-03 13:13:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_tool": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-03 13:13:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/cpu_crafting_unit": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-03 13:13:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/cell_workbench": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-03 13:13:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/energy_level_emitter": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-03 13:13:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/basiccard": {
+    "criteria": {
+      "has_calculation_processor": "2025-08-03 13:13:59 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_pattern_encoding": {
+    "criteria": {
+      "has_crafting_terminal": "2025-08-03 13:14:05 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/wireless_crafting_terminal": {
+    "criteria": {
+      "has_terminal": "2025-08-03 13:14:05 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2025-08-03 13:14:05 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/warped_table": {
+    "criteria": {
+      "has_bamboo": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k_storage": {
+    "criteria": {
+      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_256k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_64k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_table": {
+    "criteria": {
+      "has_warped_table": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/warped_support": {
+    "criteria": {
+      "has_plank": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_limited_barrel_1": {
+    "criteria": {
+      "has_warped_plank": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_limited_barrel_4": {
+    "criteria": {
+      "has_warped_plank": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_limited_barrel_3": {
+    "criteria": {
+      "has_warped_plank": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_limited_barrel_2": {
+    "criteria": {
+      "has_warped_plank": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 14:11:08 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_chair": {
+    "criteria": {
+      "has_warped_chair": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_dining_bench": {
+    "criteria": {
+      "has_warped_dining_bench": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_couch": {
+    "criteria": {
+      "has_warped_couch": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lucernia_log": {
+    "criteria": {
+      "has_lucernia_bark": "2025-08-03 14:09:48 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/warped_seat": {
+    "criteria": {
+      "has_plank": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_crafting_table": {
+    "criteria": {
+      "has_warped_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/warped_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/warped_pressure_plate_from_slab": {
+    "criteria": {
+      "has_warped_slab": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_twisting_vine_bow": {
+    "criteria": {
+      "has_warped_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_16k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "appbot:recipes/misc/mana_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_composter": {
+    "criteria": {
+      "has_warped_slab": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_1k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_4k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_drawer": {
+    "criteria": {
+      "has_warped_drawer": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k_storage": {
+    "criteria": {
+      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
+    "criteria": {
+      "has_log": "2025-08-03 14:11:08 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_log": {
+    "criteria": {
+      "has_rubber_log": "2025-08-03 14:08:35 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
+    "criteria": {
+      "has_rubber_log": "2025-08-03 14:08:35 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_barrel": {
+    "criteria": {
+      "has_warped_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
+    "criteria": {
+      "has_logs": "2025-08-03 14:11:08 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_chest": {
+    "criteria": {
+      "has_warped_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_warped": {
+    "criteria": {
+      "has_item": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2025-08-03 14:01:31 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_barrel": {
+    "criteria": {
+      "has_warped_plank": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/rubber_logs": {
+    "criteria": {
+      "has_rubber_logs": "2025-08-03 14:08:35 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_pillar_trim": {
+    "criteria": {
+      "has_warped_pillar_trim": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_desk": {
+    "criteria": {
+      "has_warped_desk": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_corner_trim": {
+    "criteria": {
+      "has_warped_corner_trim": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_4k_part": {
+    "criteria": {
+      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/warped_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 14:11:09 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_counter": {
+    "criteria": {
+      "has_warped_counter": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
+    "criteria": {
+      "has_birch_stairs": "2025-08-03 14:11:10 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
+    "criteria": {
+      "has_rubber_log": "2025-08-03 14:08:35 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_shelf": {
+    "criteria": {
+      "has_warped_shelf": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_cupboard": {
+    "criteria": {
+      "has_warped_cupboard": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_boat": {
+    "criteria": {
+      "has_warped_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/joshua_beard_from_joshua_log": {
+    "criteria": {
+      "has_log": "2025-08-03 14:11:09 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_planks": {
+    "criteria": {
+      "has_logs": "2025-08-03 14:11:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_chest": {
+    "criteria": {
+      "has_warped_plank": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/io_port": {
+    "criteria": {
+      "has_drive": "2025-08-03 13:43:00 -0300"
     },
     "done": true
   },

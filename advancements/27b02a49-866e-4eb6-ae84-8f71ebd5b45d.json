@@ -1252,6 +1252,7 @@
       "redwoods": "2025-06-20 02:45:03 -0300",
       "golden_boreal_taiga": "2025-07-09 20:26:43 -0300",
       "icy_heights": "2025-06-20 13:56:23 -0300",
+      "hyacinth_deeps": "2025-08-03 01:02:17 -0300",
       "bioshroom_caves": "2025-07-22 20:08:36 -0300",
       "lupine_plains": "2025-06-20 12:43:54 -0300"
     },
@@ -1300,6 +1301,7 @@
       "redwoods": "2025-06-20 02:45:03 -0300",
       "golden_boreal_taiga": "2025-07-09 20:26:43 -0300",
       "icy_heights": "2025-06-20 13:56:23 -0300",
+      "hyacinth_deeps": "2025-08-03 01:02:17 -0300",
       "lupine_plains": "2025-06-20 12:43:54 -0300"
     },
     "done": false
@@ -1793,6 +1795,7 @@
       "minecraft:enderman": "2025-06-15 19:12:52 -0300",
       "minecraft:stray": "2025-06-20 14:16:40 -0300",
       "minecraft:silverfish": "2025-07-22 19:59:34 -0300",
+      "minecraft:endermite": "2025-08-02 18:21:13 -0300",
       "minecraft:vex": "2025-07-28 00:01:48 -0300",
       "minecraft:zombie": "2025-06-15 19:10:29 -0300",
       "minecraft:drowned": "2025-07-27 22:41:21 -0300"
@@ -6196,6 +6199,7 @@
       "minecraft:frozen_ocean": "2025-06-20 13:46:29 -0300",
       "minecraft:desert": "2025-07-23 11:00:30 -0300",
       "minecraft:windswept_forest": "2025-07-15 18:52:08 -0300",
+      "minecraft:deep_frozen_ocean": "2025-08-03 00:51:37 -0300",
       "minecraft:jungle": "2025-06-20 03:00:07 -0300",
       "minecraft:ocean": "2025-06-20 00:46:51 -0300",
       "minecraft:old_growth_spruce_taiga": "2025-07-09 20:26:40 -0300",
@@ -6203,6 +6207,7 @@
       "minecraft:windswept_savanna": "2025-07-15 18:23:32 -0300",
       "minecraft:warm_ocean": "2025-07-23 11:00:27 -0300",
       "minecraft:deep_lukewarm_ocean": "2025-06-20 02:28:32 -0300",
+      "minecraft:flower_forest": "2025-08-03 01:44:21 -0300",
       "minecraft:frozen_peaks": "2025-07-09 20:51:57 -0300",
       "minecraft:old_growth_birch_forest": "2025-06-19 18:07:04 -0300",
       "minecraft:deep_dark": "2025-07-22 19:44:02 -0300",
@@ -6221,10 +6226,11 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-06-15 19:55:08 -0300",
+      "opened_shulker": "2025-08-02 21:58:51 -0300",
       "opened_chest": "2025-06-15 19:44:47 -0300",
       "opened_cart": "2025-07-27 23:08:28 -0300"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
@@ -7759,6 +7765,7 @@
   "croptopia:gather_food": {
     "criteria": {
       "clam": "2025-07-09 00:17:23 -0300",
+      "cooked_calamari": "2025-08-03 01:39:05 -0300",
       "toast": "2025-06-15 20:28:33 -0300",
       "glowing_calamari": "2025-07-09 00:17:40 -0300",
       "crab": "2025-07-09 00:17:34 -0300"
@@ -20484,6 +20491,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "darkmoon_longbow": "2025-08-02 20:47:32 -0300",
       "soul_reaper": "2025-07-30 19:33:28 -0300",
       "darkin_blade": "2025-06-30 21:01:48 -0300",
       "draugr": "2025-08-02 00:57:08 -0300",
@@ -25258,6 +25266,7 @@
   },
   "betterend:all_elytras": {
     "criteria": {
+      "crystalite": "2025-08-02 21:06:28 -0300",
       "vanilla": "2025-07-29 11:26:52 -0300"
     },
     "done": false
@@ -25905,8 +25914,10 @@
       "betterend:foggy_mushroomland": "2025-07-29 14:40:06 -0300",
       "betterend:ice_starfield": "2025-07-29 14:43:04 -0300",
       "betterend:glowing_grasslands": "2025-07-29 14:18:25 -0300",
+      "betterend:jade_cave": "2025-08-02 17:56:55 -0300",
       "betterend:dragon_graveyards": "2025-07-29 14:59:19 -0300",
       "betterend:megalake_grove": "2025-07-29 15:28:14 -0300",
+      "betterend:umbra_valley": "2025-08-02 22:05:46 -0300",
       "betterend:chorus_forest": "2025-07-29 15:26:25 -0300",
       "betterend:lantern_woods": "2025-07-29 14:47:00 -0300",
       "betterend:umbrella_jungle": "2025-07-29 15:07:01 -0300",
@@ -28876,9 +28887,10 @@
   },
   "soulsweapons:draugr_boss": {
     "criteria": {
+      "condition_0": "2025-08-03 02:36:03 -0300",
       "condition_1": "2025-08-02 00:57:38 -0300"
     },
-    "done": false
+    "done": true
   },
   "soulsweapons:recipes/combat/chungus_staff": {
     "criteria": {
@@ -29072,12 +29084,6 @@
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-08-02 16:27:16 -0300"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/lodestone": {
     "criteria": {
       "has_netherite_ingots": "2025-08-02 12:44:52 -0300"
@@ -29087,30 +29093,6 @@
   "advancednetherite:recipes/misc/netherite_iron_boots_smithing": {
     "criteria": {
       "has_ingredients": "2025-08-02 12:44:52 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-08-02 15:24:21 -0300"
-    },
-    "done": true
-  },
-  "more_armor_trims:trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_more_armor_trims:nihility_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:34:29 -0300"
-    },
-    "done": true
-  },
-  "simplyswords:slumbering_lichblade": {
-    "criteria": {
-      "requirement": "2025-08-02 12:54:19 -0300"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_green": {
-    "criteria": {
-      "has_alt_item": "2025-08-02 16:27:16 -0300"
     },
     "done": true
   },
@@ -29144,12 +29126,6 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/green_petal_block": {
-    "criteria": {
-      "has_item": "2025-08-02 16:27:16 -0300"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_iron_axe_smithing": {
     "criteria": {
       "has_ingredients": "2025-08-02 12:44:52 -0300"
@@ -29174,6 +29150,67 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_iron_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-08-02 12:44:52 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2025-08-02 12:54:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-02 15:24:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-08-02 15:24:21 -0300"
+    },
+    "done": true
+  },
+  "more_armor_trims:trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_more_armor_trims:nihility_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:34:29 -0300"
+    },
+    "done": true
+  },
+  "more_armor_trims:trim_with_all_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_more_armor_trims:nihility_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:34:29 -0300",
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:35:52 -0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:35:52 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-08-02 16:27:16 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_alt_item": "2025-08-02 16:27:16 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_petal_block": {
+    "criteria": {
+      "has_item": "2025-08-02 16:27:16 -0300"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_green_double": {
     "criteria": {
       "has_alt_item": "2025-08-02 16:27:16 -0300"
@@ -29186,28 +29223,573 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
+  "twigs:recipes/columns/quartz_column": {
     "criteria": {
-      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:35:52 -0300"
+      "has_item": "2025-08-02 17:26:43 -0300"
     },
     "done": true
   },
-  "more_armor_trims:trim_with_all_armor_patterns": {
+  "stoneworks:recipes/building_blocks/quartz_paver_wall_from_quartz_block_stonecutting": {
     "criteria": {
-      "armor_trimmed_more_armor_trims:nihility_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:34:29 -0300",
-      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2025-08-02 15:35:52 -0300"
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingle_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_paver_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/quartz_elevator_from_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tiles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_pavers_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_paver_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingle_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plates_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_quartz_tiles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingle_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/quartz_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 17:26:43 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/gray_coffin": {
+    "criteria": {
+      "has_item": "2025-08-02 18:09:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:jellie": "2025-08-02 18:15:37 -0300"
     },
     "done": false
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+  "sophisticatedstorage:recipes/misc/shulker_box": {
     "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-08-02 15:24:21 -0300"
+      "has_shulker_shell": "2025-08-02 18:19:30 -0300"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_iron_shovel_smithing": {
+  "sophisticatedstorage:recipes/misc/orange_shulker_box_to_sophisticated": {
     "criteria": {
-      "has_ingredients": "2025-08-02 12:44:52 -0300"
+      "has_orange_shulker_box": "2025-08-02 18:40:50 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/black_shulker_box_to_sophisticated": {
+    "criteria": {
+      "has_black_shulker_box": "2025-08-02 18:40:53 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/lime_shulker_box_to_sophisticated": {
+    "criteria": {
+      "has_lime_shulker_box": "2025-08-02 18:40:55 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/light_blue_shulker_box_to_sophisticated": {
+    "criteria": {
+      "has_light_blue_shulker_box": "2025-08-02 18:40:58 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-08-02 18:43:17 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-08-02 18:43:24 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_shard_to_dust": {
+    "criteria": {
+      "has_item.betterend.ender_shard": "2025-08-02 18:45:09 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-02 18:48:34 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-02 18:48:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-08-02 18:49:46 -0300"
+    },
+    "done": true
+  },
+  "betterend:infusion": {
+    "criteria": {
+      "infusion_pedestal": "2025-08-02 18:51:04 -0300"
+    },
+    "done": true
+  },
+  "rpg_series:spell_master_priest": {
+    "criteria": {
+      "cast": "2025-08-02 20:09:43 -0300"
+    },
+    "done": true
+  },
+  "rpg_series:spell_master_rogue": {
+    "criteria": {
+      "bind": "2025-08-02 20:09:55 -0300"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_warrior": {
+    "criteria": {
+      "bind": "2025-08-02 20:11:19 -0300"
+    },
+    "done": true
+  },
+  "rpg_series:spell_master_warrior": {
+    "criteria": {
+      "bind": "2025-08-02 20:11:21 -0300"
+    },
+    "done": true
+  },
+  "modern_industrialization:steam_mining_drill": {
+    "criteria": {
+      "checkInv": "2025-08-02 20:56:25 -0300"
+    },
+    "done": true
+  },
+  "betterend:infusion_finished": {
+    "criteria": {
+      "finished": "2025-08-02 21:02:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-08-02 21:12:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-08-02 21:12:47 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/keep_ivy": {
+    "criteria": {
+      "has_item": "2025-08-02 21:56:30 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/red_string": {
+    "criteria": {
+      "has_item": "2025-08-02 21:56:30 -0300"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2025-08-02 21:56:30 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/corporea_spark": {
+    "criteria": {
+      "has_item": "2025-08-02 21:56:30 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/red_string_alt": {
+    "criteria": {
+      "has_item": "2025-08-02 21:56:30 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spawner_claw": {
+    "criteria": {
+      "has_item": "2025-08-02 21:56:30 -0300"
+    },
+    "done": true
+  },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2025-08-02 21:58:51 -0300"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:end/obsidilith_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:obsidilith": "2025-08-02 22:03:27 -0300"
+    },
+    "done": true
+  },
+  "prominent:molten_core": {
+    "criteria": {
+      "requirement": "2025-08-03 00:36:36 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-08-03 00:51:37 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-08-03 00:51:57 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2025-08-03 00:53:23 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygelium": {
+    "criteria": {
+      "has_item": "2025-08-03 00:55:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-08-03 01:25:57 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/oxidized_copper_pillar": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-08-03 01:25:57 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-08-03 01:44:23 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:mjolnir": {
+    "criteria": {
+      "requirement": "2025-08-03 01:53:08 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_frozen_key": {
+    "criteria": {
+      "frozen_key": "2025-08-03 01:53:26 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2025-08-03 01:53:40 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2025-08-03 01:53:42 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2025-08-03 01:53:47 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/astral_dust": {
+    "criteria": {
+      "has_item": "2025-08-03 01:53:49 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2025-08-03 01:57:26 -0300"
+    },
+    "done": true
+  },
+  "prominent:frostmourne": {
+    "criteria": {
+      "requirement": "2025-08-03 02:01:26 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/abyssal_amethyst": {
+    "criteria": {
+      "has_item": "2025-08-03 02:23:09 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/pure_moonlight_greatsword": {
+    "criteria": {
+      "has_item": "2025-08-03 02:38:17 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/chaos_orb": {
+    "criteria": {
+      "has_item": "2025-08-03 02:38:17 -0300"
     },
     "done": true
   },
