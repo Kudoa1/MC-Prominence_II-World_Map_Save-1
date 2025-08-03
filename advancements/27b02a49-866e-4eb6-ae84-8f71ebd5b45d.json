@@ -29793,5 +29793,11 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-08-03 20:42:14 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
