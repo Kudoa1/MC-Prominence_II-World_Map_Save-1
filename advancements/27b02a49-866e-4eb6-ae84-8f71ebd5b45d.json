@@ -17768,6 +17768,7 @@
       "beachparty:trunks": "2025-06-20 01:27:15 -0300",
       "beachparty:sunglasses": "2025-06-20 01:23:04 -0300",
       "beachparty:swim_wings": "2025-06-20 01:36:14 -0300",
+      "beachparty:rubber_ring_stripped": "2025-08-03 22:38:49 -0300",
       "beachparty:crocs": "2025-06-20 01:19:18 -0300",
       "beachparty:rubber_ring_blue": "2025-06-20 02:31:28 -0300",
       "beachparty:beach_ball": "2025-06-20 01:04:38 -0300",
@@ -17787,6 +17788,7 @@
       "beachparty:bikini": "2025-06-20 01:23:10 -0300",
       "beachparty:rubber_ring_axolotl": "2025-06-20 01:23:27 -0300",
       "beachparty:sunglasses": "2025-06-20 01:23:04 -0300",
+      "beachparty:rubber_ring_stripped": "2025-08-03 22:38:49 -0300",
       "beachparty:rubber_ring_blue": "2025-06-20 02:31:28 -0300",
       "beachparty:rubber_ring_pink": "2025-06-20 01:35:21 -0300",
       "beachparty:rubber_ring_pelican": "2025-06-20 01:26:13 -0300"
@@ -29796,6 +29798,402 @@
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
       "has_item": "2025-08-03 20:42:14 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_pillar_trim": {
+    "criteria": {
+      "has_bamboo_pillar_trim": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/bamboo_support": {
+    "criteria": {
+      "has_plank": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "adventurez:recipes/chorus_fruit_on_a_stick_recipe": {
+    "criteria": {
+      "got_the_chorus_fruit": "2025-08-03 22:49:05 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_1": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_2": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_3": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_4": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-08-03 22:49:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
+    "criteria": {
+      "has_quartz_glass": "2025-08-03 22:48:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/peridot_dust_from_block": {
+    "criteria": {
+      "has_tag_c_peridot_blocks": "2025-08-03 22:49:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_fancy_bed": {
+    "criteria": {
+      "has_bamboo_fancy_bed": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_bench": {
+    "criteria": {
+      "has_bamboo_bench": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_nightstand": {
+    "criteria": {
+      "has_bamboo_nightstand": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2025-08-03 22:13:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "prominent:unlock_mythic_challenges": {
+    "criteria": {
+      "requirement": "2025-08-03 23:11:40 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_side_table": {
+    "criteria": {
+      "has_bamboo_side_table": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_barrel": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lacugrove_bark": {
+    "criteria": {
+      "has_lacugrove_log": "2025-08-03 22:51:11 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/starforge": {
+    "criteria": {
+      "arcane": "2025-08-03 23:23:15 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_drawer": {
+    "criteria": {
+      "has_bamboo_drawer": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
+    "criteria": {
+      "has_quartz_glass": "2025-08-03 22:48:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_peridot_blocks": "2025-08-03 22:49:07 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/ashes": {
+    "criteria": {
+      "arcane": "2025-08-03 23:19:17 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_peridot_blocks": "2025-08-03 22:49:07 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_chest": {
+    "criteria": {
+      "has_bamboo_plank": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/panels_semi_dark_monitor": {
+    "criteria": {
+      "has_quartz_glass": "2025-08-03 22:48:35 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_cupboard": {
+    "criteria": {
+      "has_bamboo_cupboard": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_blocks_wall": {
+    "criteria": {
+      "has_tag_c_peridot_blocks": "2025-08-03 22:49:07 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_desk": {
+    "criteria": {
+      "has_bamboo_desk": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/magus": {
+    "criteria": {
+      "arcane": "2025-08-03 23:15:51 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_shelf": {
+    "criteria": {
+      "has_bamboo_shelf": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_chair": {
+    "criteria": {
+      "has_bamboo_chair": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_counter": {
+    "criteria": {
+      "has_bamboo_counter": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "archon:kill_null": {
+    "criteria": {
+      "archon:null": "2025-08-03 23:10:39 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_couch": {
+    "criteria": {
+      "has_bamboo_couch": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-08-03 22:49:22 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_dining_bench": {
+    "criteria": {
+      "has_bamboo_dining_bench": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-08-03 22:13:05 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_peridot_blocks": "2025-08-03 22:49:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/bamboo_seat": {
+    "criteria": {
+      "has_plank": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_bamboo": {
+    "criteria": {
+      "has_item": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sharp_bones": {
+    "criteria": {
+      "has_item": "2025-08-03 22:49:30 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/omni": {
+    "criteria": {
+      "arcane": "2025-08-03 23:19:19 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-08-03 22:49:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-08-03 22:49:05 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_table": {
+    "criteria": {
+      "has_bamboo_table": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-08-03 22:49:22 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_quartz_glass": "2025-08-03 22:48:35 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/protein_bar": {
+    "criteria": {
+      "has_caramel": "2025-08-03 22:51:13 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_blocks_slab": {
+    "criteria": {
+      "has_tag_c_peridot_blocks": "2025-08-03 22:49:07 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_peridot_blocks": "2025-08-03 22:49:07 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/gem/peridot_gem_from_block": {
+    "criteria": {
+      "has_peridot_storage_block": "2025-08-03 22:49:07 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_corner_trim": {
+    "criteria": {
+      "has_bamboo_corner_trim": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2025-08-03 22:13:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygen_tank": {
+    "criteria": {
+      "has_item": "2025-08-03 22:49:17 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/peridot_plate_from_block": {
+    "criteria": {
+      "has_tag_c_peridot_blocks": "2025-08-03 22:49:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-03 22:55:09 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/bamboo_table": {
+    "criteria": {
+      "has_bamboo": "2025-08-03 22:55:09 -0300"
     },
     "done": true
   },

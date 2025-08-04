@@ -20746,17 +20746,35 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
-    "criteria": {
-      "has_quartz_glass": "2025-08-03 13:59:52 -0300"
-    },
-    "done": true
-  },
   "soulsweapons:draugr_boss": {
     "criteria": {
       "condition_1": "2025-08-03 02:36:19 -0300"
     },
     "done": false
+  },
+  "soulsweapons:recipes/combat/chungus_staff": {
+    "criteria": {
+      "has_item": "2025-08-03 02:36:19 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draugr": {
+    "criteria": {
+      "has_item": "2025-08-03 02:36:19 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkmoon_longbow": {
+    "criteria": {
+      "has_item": "2025-08-03 02:36:19 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:moonknight": {
+    "criteria": {
+      "condition_0": "2025-08-03 02:38:17 -0300"
+    },
+    "done": true
   },
   "soulsweapons:moonlight_tools": {
     "criteria": {
@@ -20764,15 +20782,21 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+  "soulsweapons:all_moonlight_weapons": {
     "criteria": {
-      "has_sky_stone_block": "2025-08-03 13:59:52 -0300"
+      "moonlight_greatsword": "2025-08-03 02:38:31 -0300"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
+    "criteria": {
+      "has_quartz_glass": "2025-08-03 13:59:52 -0300"
     },
     "done": true
   },
-  "soulsweapons:moonknight": {
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
-      "condition_0": "2025-08-03 02:38:17 -0300"
+      "has_sky_stone_block": "2025-08-03 13:59:52 -0300"
     },
     "done": true
   },
@@ -20788,12 +20812,6 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/chungus_staff": {
-    "criteria": {
-      "has_item": "2025-08-03 02:36:19 -0300"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
       "has_sky_stone_block": "2025-08-03 13:59:52 -0300"
@@ -20803,12 +20821,6 @@
   "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
     "criteria": {
       "has_quartz_glass": "2025-08-03 13:59:52 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/draugr": {
-    "criteria": {
-      "has_item": "2025-08-03 02:36:19 -0300"
     },
     "done": true
   },
@@ -20830,21 +20842,9 @@
     },
     "done": true
   },
-  "soulsweapons:all_moonlight_weapons": {
-    "criteria": {
-      "moonlight_greatsword": "2025-08-03 02:38:31 -0300"
-    },
-    "done": false
-  },
   "ae2:recipes/misc/network/parts/quartz_fiber_part": {
     "criteria": {
       "has_dusts/quartz": "2025-08-03 13:59:52 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/darkmoon_longbow": {
-    "criteria": {
-      "has_item": "2025-08-03 02:36:19 -0300"
     },
     "done": true
   },
@@ -20887,6 +20887,54 @@
   "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-08-03 13:59:52 -0300"
+    },
+    "done": true
+  },
+  "prominent:unlock_mythic_challenges": {
+    "criteria": {
+      "requirement": "2025-08-03 23:11:38 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/starforge": {
+    "criteria": {
+      "arcane": "2025-08-03 23:26:37 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/ashes": {
+    "criteria": {
+      "arcane": "2025-08-03 23:27:04 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/magus": {
+    "criteria": {
+      "arcane": "2025-08-03 23:15:51 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_block_to_perl": {
+    "criteria": {
+      "has_ender_block": "2025-08-03 22:57:28 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/omni": {
+    "criteria": {
+      "arcane": "2025-08-03 23:21:58 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/glassocean": {
+    "criteria": {
+      "arcane": "2025-08-03 23:15:39 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_written_book": {
+    "criteria": {
+      "has_written_book": "2025-08-03 23:20:30 -0300"
     },
     "done": true
   },
