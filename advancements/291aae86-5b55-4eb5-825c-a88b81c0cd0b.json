@@ -114,6 +114,7 @@
       "scorching_caves": "2025-07-30 19:19:41 -0300",
       "rocky_meadow": "2025-07-27 22:48:04 -0300",
       "blackwood_taiga": "2025-07-31 22:46:08 -0300",
+      "mycotoxic_undergrowth": "2025-08-05 14:47:45 -0300",
       "ochard": "2025-08-03 01:42:47 -0300",
       "flower_fields": "2025-07-27 23:07:33 -0300",
       "highland_fields": "2025-07-27 23:15:16 -0300",
@@ -4409,6 +4410,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "withered_wabbajack": "2025-08-05 14:54:16 -0300",
       "soul_reaper": "2025-07-29 23:35:44 -0300",
       "moonlight_greatsword": "2025-08-03 02:38:31 -0300",
       "darkin_blade": "2025-07-27 22:41:20 -0300",
@@ -13990,6 +13992,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-07-31 22:54:15 -0300",
+      "minecraft:soul_sand_valley": "2025-08-05 14:45:53 -0300",
       "minecraft:basalt_deltas": "2025-07-29 21:20:51 -0300",
       "minecraft:warped_forest": "2025-07-30 20:40:23 -0300"
     },
@@ -14672,6 +14675,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2025-08-05 14:47:45 -0300",
       "blackstone_basin": "2025-07-29 21:23:53 -0300",
       "redstone_abyss": "2025-08-02 22:20:39 -0300"
     },
@@ -20890,9 +20894,39 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_block_to_perl": {
+    "criteria": {
+      "has_ender_block": "2025-08-03 22:57:28 -0300"
+    },
+    "done": true
+  },
   "prominent:unlock_mythic_challenges": {
     "criteria": {
       "requirement": "2025-08-03 23:11:38 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/glassocean": {
+    "criteria": {
+      "arcane": "2025-08-03 23:15:39 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/magus": {
+    "criteria": {
+      "arcane": "2025-08-03 23:15:51 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_written_book": {
+    "criteria": {
+      "has_written_book": "2025-08-03 23:20:30 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/omni": {
+    "criteria": {
+      "arcane": "2025-08-03 23:21:58 -0300"
     },
     "done": true
   },
@@ -20908,33 +20942,189 @@
     },
     "done": true
   },
-  "spellbladenext:spellblades/magus": {
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
     "criteria": {
-      "arcane": "2025-08-03 23:15:51 -0300"
+      "has_glowstone_dust": "2025-08-05 14:47:36 -0300"
     },
     "done": true
   },
-  "betterend:recipes/misc/ender_block_to_perl": {
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
     "criteria": {
-      "has_ender_block": "2025-08-03 22:57:28 -0300"
+      "has_glowstone_dust": "2025-08-05 14:47:36 -0300"
     },
     "done": true
   },
-  "spellbladenext:spellblades/omni": {
+  "mcda:recipes/base_armors/plate_armor_leggings": {
     "criteria": {
-      "arcane": "2025-08-03 23:21:58 -0300"
+      "has_iron_plate": "2025-08-05 15:20:13 -0300"
     },
     "done": true
   },
-  "spellbladenext:spellblades/glassocean": {
+  "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "arcane": "2025-08-03 23:15:39 -0300"
+      "has_glowstone": "2025-08-05 14:47:39 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/extractor/paper_from_written_book": {
+  "handcrafted:recipes/misc/black_cushion": {
     "criteria": {
-      "has_written_book": "2025-08-03 23:20:30 -0300"
+      "has_black_cushion": "2025-08-05 15:18:12 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-08-05 15:18:31 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/plate_armor_chestplate": {
+    "criteria": {
+      "has_iron_plate": "2025-08-05 15:20:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-05 15:18:12 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_helmet": {
+    "criteria": {
+      "has_black_fabric_bolt": "2025-08-05 15:18:43 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:lords_on_stick": {
+    "criteria": {
+      "withered_wabbajack": "2025-08-05 14:54:16 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-05 14:47:36 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-05 14:47:39 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_metal": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-05 15:20:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-05 14:47:36 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/titans_shroud_chestplate": {
+    "criteria": {
+      "has_dark_armor_chestplate": "2025-08-05 15:19:00 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/redstone_plate": {
+    "criteria": {
+      "has_redstone_block": "2025-08-05 15:18:31 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-08-05 15:18:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-05 15:18:31 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-05 14:47:36 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/plate_armor_helmet": {
+    "criteria": {
+      "has_iron_plate": "2025-08-05 15:20:13 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-08-05 14:47:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-05 15:18:12 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_black_fabric_bolt": "2025-08-05 15:18:43 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
+    "criteria": {
+      "has_redstone_block": "2025-08-05 15:18:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-08-05 15:18:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-05 15:18:12 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-08-05 15:18:12 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-08-05 15:18:12 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/plate_armor_boots": {
+    "criteria": {
+      "has_iron_plate": "2025-08-05 15:20:13 -0300"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2025-08-05 15:18:12 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/black_bed_from_wool": {
+    "criteria": {
+      "has_black_wool": "2025-08-05 15:18:12 -0300"
     },
     "done": true
   },

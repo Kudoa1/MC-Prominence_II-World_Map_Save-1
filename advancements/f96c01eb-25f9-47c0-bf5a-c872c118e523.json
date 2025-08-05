@@ -766,6 +766,7 @@
       "scorching_caves": "2025-07-30 18:28:10 -0300",
       "blackwood_taiga": "2025-06-20 02:54:12 -0300",
       "rocky_meadow": "2025-06-20 00:48:00 -0300",
+      "mycotoxic_undergrowth": "2025-08-05 14:47:32 -0300",
       "ochard": "2025-07-21 22:45:00 -0300",
       "flower_fields": "2025-07-27 23:25:24 -0300",
       "highland_fields": "2025-06-15 19:43:48 -0300",
@@ -1431,6 +1432,7 @@
       "minecraft:skeleton": "2025-06-15 20:59:54 -0300",
       "minecraft:ravager": "2025-08-03 01:48:04 -0300",
       "minecraft:ghast": "2025-06-30 21:09:52 -0300",
+      "minecraft:hoglin": "2025-08-05 14:23:40 -0300",
       "minecraft:vindicator": "2025-07-29 21:04:21 -0300",
       "minecraft:magma_cube": "2025-06-19 22:00:29 -0300",
       "minecraft:spider": "2025-06-15 21:30:36 -0300",
@@ -1447,6 +1449,7 @@
       "minecraft:enderman": "2025-06-15 21:43:12 -0300",
       "minecraft:silverfish": "2025-07-23 10:29:45 -0300",
       "minecraft:stray": "2025-08-02 00:45:34 -0300",
+      "minecraft:vex": "2025-08-05 14:43:10 -0300",
       "minecraft:zombie": "2025-06-15 19:10:38 -0300",
       "minecraft:zombie_villager": "2025-06-15 21:31:51 -0300"
     },
@@ -10747,6 +10750,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-05 14:14:13 -0300",
+      "minecraft:soul_sand_valley": "2025-08-05 14:32:57 -0300",
       "minecraft:basalt_deltas": "2025-06-15 22:19:44 -0300",
       "minecraft:warped_forest": "2025-07-15 20:55:01 -0300"
     },
@@ -22346,6 +22351,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "withered_wabbajack": "2025-08-05 15:04:47 -0300",
       "darkin_blade": "2025-06-30 21:01:04 -0300",
       "draugr": "2025-08-03 10:19:51 -0300"
     },
@@ -23987,6 +23993,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2025-08-05 14:47:32 -0300",
       "blackstone_basin": "2025-07-08 20:13:54 -0300",
       "redstone_abyss": "2025-07-03 01:02:42 -0300"
     },
@@ -33518,49 +33525,43 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+  "ae2:recipes/misc/network/blocks/io_port": {
     "criteria": {
-      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/warped_table": {
-    "criteria": {
-      "has_bamboo": "2025-08-03 14:08:20 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-03 14:08:20 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+      "has_drive": "2025-08-03 13:43:00 -0300"
     },
     "done": true
   },
   "ae2:recipes/misc/network/cells/item_storage_cell_1k_storage": {
+    "criteria": {
+      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
+    },
+    "done": true
+  },
+  "appbot:recipes/misc/mana_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k_storage": {
+    "criteria": {
+      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_4k_part": {
     "criteria": {
       "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
     },
@@ -33575,6 +33576,42 @@
   "ae2:recipes/misc/tools/portable_item_cell_64k": {
     "criteria": {
       "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_16k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_1k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_4k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2025-08-03 14:01:31 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/warped_table": {
+    "criteria": {
+      "has_bamboo": "2025-08-03 14:08:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-03 14:08:20 -0300"
     },
     "done": true
   },
@@ -33626,18 +33663,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
-    "criteria": {
-      "has_log": "2025-08-03 14:11:08 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_storage_cell_1k": {
-    "criteria": {
-      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_chair": {
     "criteria": {
       "has_warped_chair": "2025-08-03 14:08:20 -0300"
@@ -33665,12 +33690,6 @@
   "handcrafted:recipes/misc/warped_couch": {
     "criteria": {
       "has_warped_couch": "2025-08-03 14:08:20 -0300"
-    },
-    "done": true
-  },
-  "betterend:recipes/building_blocks/lucernia_log": {
-    "criteria": {
-      "has_lucernia_bark": "2025-08-03 14:09:48 -0300"
     },
     "done": true
   },
@@ -33710,24 +33729,6 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/portable_item_cell_16k": {
-    "criteria": {
-      "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_chest": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
-    },
-    "done": true
-  },
-  "appbot:recipes/misc/mana_storage_cell_1k": {
-    "criteria": {
-      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-08-03 14:08:20 -0300"
@@ -33737,18 +33738,6 @@
   "betternether:recipes/decorations/warped_composter": {
     "criteria": {
       "has_warped_slab": "2025-08-03 14:08:20 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_item_cell_1k": {
-    "criteria": {
-      "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/portable_item_cell_4k": {
-    "criteria": {
-      "has_item_cell_housing": "2025-08-03 14:01:09 -0300"
     },
     "done": true
   },
@@ -33764,75 +33753,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/acacia_barrel": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k_storage": {
-    "criteria": {
-      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
-    "criteria": {
-      "has_log": "2025-08-03 14:11:08 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/rubber_from_log": {
-    "criteria": {
-      "has_rubber_log": "2025-08-03 14:08:35 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
-    "criteria": {
-      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
-    "criteria": {
-      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
-    "criteria": {
-      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
-    "criteria": {
-      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
-    "criteria": {
-      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
-    "criteria": {
-      "has_rubber_log": "2025-08-03 14:08:35 -0300"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/warped_barrel": {
     "criteria": {
       "has_warped_planks": "2025-08-03 14:08:20 -0300"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
-    "criteria": {
-      "has_logs": "2025-08-03 14:11:08 -0300"
     },
     "done": true
   },
@@ -33866,27 +33789,9 @@
     },
     "done": true
   },
-  "ae2:main/storage_cell": {
-    "criteria": {
-      "c1k": "2025-08-03 14:01:31 -0300"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/warped_barrel": {
     "criteria": {
       "has_warped_plank": "2025-08-03 14:08:20 -0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k": {
-    "criteria": {
-      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/rubber_logs": {
-    "criteria": {
-      "has_rubber_logs": "2025-08-03 14:08:35 -0300"
     },
     "done": true
   },
@@ -33908,39 +33813,15 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cells/item_storage_components_cell_4k_part": {
-    "criteria": {
-      "has_cell_component_1k": "2025-08-03 13:55:38 -0300"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/warped_window": {
     "criteria": {
       "has_ingredient": "2025-08-03 14:08:20 -0300"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/joshua_wood": {
-    "criteria": {
-      "has_log": "2025-08-03 14:11:09 -0300"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_counter": {
     "criteria": {
       "has_warped_counter": "2025-08-03 14:08:20 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
-    "criteria": {
-      "has_birch_stairs": "2025-08-03 14:11:10 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
-    "criteria": {
-      "has_rubber_log": "2025-08-03 14:08:35 -0300"
     },
     "done": true
   },
@@ -33968,18 +33849,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/joshua_beard_from_joshua_log": {
-    "criteria": {
-      "has_log": "2025-08-03 14:11:09 -0300"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/joshua_planks": {
-    "criteria": {
-      "has_logs": "2025-08-03 14:11:09 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-08-03 14:08:20 -0300"
@@ -33992,9 +33861,645 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/blocks/io_port": {
+  "techreborn:recipes/extractor/rubber_from_log": {
     "criteria": {
-      "has_drive": "2025-08-03 13:43:00 -0300"
+      "has_rubber_log": "2025-08-03 14:08:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
+    "criteria": {
+      "has_rubber_log": "2025-08-03 14:08:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/rubber_logs": {
+    "criteria": {
+      "has_rubber_logs": "2025-08-03 14:08:35 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
+    "criteria": {
+      "has_rubber_log": "2025-08-03 14:08:35 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lucernia_log": {
+    "criteria": {
+      "has_lucernia_bark": "2025-08-03 14:09:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-03 14:10:58 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 14:11:08 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
+    "criteria": {
+      "has_log": "2025-08-03 14:11:08 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
+    "criteria": {
+      "has_logs": "2025-08-03 14:11:08 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 14:11:09 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/joshua_beard_from_joshua_log": {
+    "criteria": {
+      "has_log": "2025-08-03 14:11:09 -0300"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_planks": {
+    "criteria": {
+      "has_logs": "2025-08-03 14:11:09 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
+    "criteria": {
+      "has_birch_stairs": "2025-08-03 14:11:10 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-08-03 14:11:19 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/athame": {
+    "criteria": {
+      "has_item": "2025-08-05 11:04:18 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/silver_nugget_from_smelting": {
+    "criteria": {
+      "has_item": "2025-08-05 11:04:18 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "prominent:unlock_mythic_challenges": {
+    "criteria": {
+      "requirement": "2025-08-05 10:25:33 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/silver_nugget_from_blasting": {
+    "criteria": {
+      "has_item": "2025-08-05 11:04:18 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2025-08-05 12:50:29 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "soulsweapons:lords_on_stick": {
+    "criteria": {
+      "withered_wabbajack": "2025-08-05 15:04:47 -0300"
+    },
+    "done": false
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs": {
+    "criteria": {
+      "has_item": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:sunfire": {
+    "criteria": {
+      "requirement": "2025-08-05 13:06:06 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/pythadendron_bark": {
+    "criteria": {
+      "has_pythadendron_log": "2025-08-05 12:13:00 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/magus": {
+    "criteria": {
+      "arcane": "2025-08-05 10:51:57 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plates_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "archon:kill_null": {
+    "criteria": {
+      "archon:null": "2025-08-05 10:44:11 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:enigma": {
+    "criteria": {
+      "requirement": "2025-08-05 13:06:08 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygelium": {
+    "criteria": {
+      "has_item": "2025-08-05 10:56:05 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygen_tank": {
+    "criteria": {
+      "has_item": "2025-08-05 10:56:05 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-08-05 14:41:52 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 14:41:52 -0300"
     },
     "done": true
   },
