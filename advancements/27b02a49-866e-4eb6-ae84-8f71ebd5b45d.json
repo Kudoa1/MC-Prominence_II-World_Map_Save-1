@@ -23343,6 +23343,7 @@
   },
   "betternether:nether_wood": {
     "criteria": {
+      "got_crimson": "2025-08-06 11:44:47 -0300",
       "got_wart": "2025-07-21 20:52:19 -0300"
     },
     "done": false
@@ -30950,219 +30951,33 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.smooth_basalt": "2025-08-05 14:39:59 -0300"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/misc/black_dye_from_snake_tongue": {
-    "criteria": {
-      "has_item": "2025-08-05 13:16:16 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
-    },
-    "done": true
-  },
-  "betterend:recipes/building_blocks/end_lotus_stairs": {
-    "criteria": {
-      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
-    },
-    "done": true
-  },
-  "croptopia:recipes/mead": {
-    "criteria": {
-      "has_honey": "2025-08-05 13:51:22 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:moonlight_tools": {
-    "criteria": {
-      "moonlight_greatsword": "2025-08-05 12:00:16 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/netherdepthsupgrade/warped_kelp_block": {
-    "criteria": {
-      "has_warped_kelp": "2025-08-05 15:05:22 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/sheldonite_ore_with_water": {
-    "criteria": {
-      "has_sheldonite_ore": "2025-08-05 15:05:29 -0300"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/misc/blaze_powder_from_demon_horn": {
-    "criteria": {
-      "has_item": "2025-08-05 15:05:29 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
-    },
-    "done": true
-  },
-  "betterend:recipes/redstone/end_lotus_button": {
-    "criteria": {
-      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
-    },
-    "done": true
-  },
-  "betterend:recipes/decorations/end_lotus_crafting_table": {
-    "criteria": {
-      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.smooth_basalt": "2025-08-05 14:39:59 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
-    },
-    "done": true
-  },
-  "betterend:recipes/decorations/end_lotus_chest": {
-    "criteria": {
-      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
-    },
-    "done": true
-  },
-  "mythicupgrades:recipes/food/sapphire_potion": {
-    "criteria": {
-      "has_sapphire_crystal_shard": "2025-08-05 15:05:21 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
-    },
-    "done": true
-  },
   "eldritch_end:recipes/building_blocks/perturbed_etyr_bars": {
     "criteria": {
       "has_etyr_ingot": "2025-08-05 11:06:38 -0300"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+  "eldritch_end:recipes/building_blocks/corrupted_etyr_bars": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+      "has_etyr_ingot": "2025-08-05 11:06:38 -0300"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+  "eldritch_end:recipes/building_blocks/etyr_bars": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+      "has_etyr_ingot": "2025-08-05 11:06:38 -0300"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
+  "soulsweapons:blunderbuss": {
     "criteria": {
-      "has_block.minecraft.smooth_basalt": "2025-08-05 14:39:59 -0300"
+      "blunderbuss": "2025-08-05 11:52:49 -0300"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+  "soulsweapons:moonlight_tools": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
-    },
-    "done": true
-  },
-  "soulsweapons:lords_on_stick": {
-    "criteria": {
-      "withered_wabbajack": "2025-08-05 14:24:12 -0300"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
-    },
-    "done": true
-  },
-  "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-05 14:39:59 -0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-08-05 13:51:22 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/oak_beam": {
-    "criteria": {
-      "has_stripped_log": "2025-08-05 14:03:13 -0300"
-    },
-    "done": true
-  },
-  "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-05 14:39:59 -0300"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_windmill": {
-    "criteria": {
-      "location0": "2025-08-05 13:59:43 -0300"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:main/abyssal_flora_expert": {
-    "criteria": {
-      "warped_kelp": "2025-08-05 15:05:22 -0300"
-    },
-    "done": false
-  },
-  "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.smooth_basalt": "2025-08-05 14:39:59 -0300"
+      "moonlight_greatsword": "2025-08-05 12:00:16 -0300"
     },
     "done": true
   },
@@ -31173,57 +30988,21 @@
     },
     "done": false
   },
-  "netherdepthsupgrade:recipes/netherdepthsupgrade/warped_kelp_block": {
+  "bewitchment:recipes/misc/black_dye_from_snake_tongue": {
     "criteria": {
-      "has_warped_kelp": "2025-08-05 15:05:22 -0300"
+      "has_item": "2025-08-05 13:16:16 -0300"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+  "croptopia:recipes/mead": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+      "has_honey": "2025-08-05 13:51:22 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
+  "farmersdelight:recipes/food/honey_cookie": {
     "criteria": {
-      "has_stripped_logs": "2025-08-05 14:03:13 -0300"
-    },
-    "done": true
-  },
-  "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-05 14:39:59 -0300"
-    },
-    "done": true
-  },
-  "twigs:recipes/basalt_blocks/smooth_basalt_brick_wall_from_smooth_basalt_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-05 14:39:59 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/smelting/platinum_ingot_from_c_sheldonite_ores": {
-    "criteria": {
-      "has_tag_c_sheldonite_ores": "2025-08-05 15:05:29 -0300"
-    },
-    "done": true
-  },
-  "betterend:recipes/redstone/end_lotus_plate": {
-    "criteria": {
-      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-08-05 14:03:13 -0300"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:recipes/food/warped_kelp_roll": {
-    "criteria": {
-      "has_warped_kelp": "2025-08-05 15:05:22 -0300"
+      "has_honey_bottle": "2025-08-05 13:51:22 -0300"
     },
     "done": true
   },
@@ -31239,33 +31018,261 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-05 13:51:22 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-08-05 13:59:43 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-08-05 14:03:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-05 14:03:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-05 14:03:13 -0300"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block_uncrafting": {
     "criteria": {
       "has_flint_block": "2025-08-05 14:15:02 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/misc/blasting/platinum_ingot_from_c_sheldonite_ores": {
+  "soulsweapons:lords_on_stick": {
     "criteria": {
-      "has_tag_c_sheldonite_ores": "2025-08-05 15:05:29 -0300"
+      "withered_wabbajack": "2025-08-05 14:24:12 -0300"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
     },
     "done": true
   },
-  "eldritch_end:recipes/building_blocks/corrupted_etyr_bars": {
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
-      "has_etyr_ingot": "2025-08-05 11:06:38 -0300"
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-08-05 14:39:59 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-08-05 14:39:59 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-08-05 14:39:59 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 14:39:59 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 14:39:59 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.smooth_basalt": "2025-08-05 14:39:59 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 14:39:59 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 14:39:59 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
+    "criteria": {
+      "has_item": "2025-08-05 14:39:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-08-05 15:03:24 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/end_lotus_stairs": {
+    "criteria": {
+      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/end_lotus_button": {
+    "criteria": {
+      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_crafting_table": {
+    "criteria": {
+      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_chest": {
+    "criteria": {
+      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/food/sapphire_potion": {
+    "criteria": {
+      "has_sapphire_crystal_shard": "2025-08-05 15:05:21 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/end_lotus_plate": {
+    "criteria": {
+      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
     },
     "done": true
   },
   "betterend:recipes/building_blocks/end_lotus_slab": {
     "criteria": {
       "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_electrolyzer/sodalite_dust": {
-    "criteria": {
-      "has_sodalite_dust": "2025-08-05 15:05:23 -0300"
     },
     "done": true
   },
@@ -31287,9 +31294,45 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+  "betterend:recipes/redstone/end_lotus_trapdoor": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/end_lotus_door": {
+    "criteria": {
+      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/netherdepthsupgrade/warped_kelp_block": {
+    "criteria": {
+      "has_warped_kelp": "2025-08-05 15:05:22 -0300"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/abyssal_flora_expert": {
+    "criteria": {
+      "warped_kelp": "2025-08-05 15:05:22 -0300"
+    },
+    "done": false
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/warped_kelp_block": {
+    "criteria": {
+      "has_warped_kelp": "2025-08-05 15:05:22 -0300"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/warped_kelp_roll": {
+    "criteria": {
+      "has_warped_kelp": "2025-08-05 15:05:22 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sodalite_dust": {
+    "criteria": {
+      "has_sodalite_dust": "2025-08-05 15:05:23 -0300"
     },
     "done": true
   },
@@ -31299,21 +31342,27 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+  "techreborn:recipes/industrial_grinder/sheldonite_ore_with_water": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+      "has_sheldonite_ore": "2025-08-05 15:05:29 -0300"
     },
     "done": true
   },
-  "eldritch_end:recipes/building_blocks/etyr_bars": {
+  "bewitchment:recipes/misc/blaze_powder_from_demon_horn": {
     "criteria": {
-      "has_etyr_ingot": "2025-08-05 11:06:38 -0300"
+      "has_item": "2025-08-05 15:05:29 -0300"
     },
     "done": true
   },
-  "soulsweapons:blunderbuss": {
+  "techreborn:recipes/misc/smelting/platinum_ingot_from_c_sheldonite_ores": {
     "criteria": {
-      "blunderbuss": "2025-08-05 11:52:49 -0300"
+      "has_tag_c_sheldonite_ores": "2025-08-05 15:05:29 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/platinum_ingot_from_c_sheldonite_ores": {
+    "criteria": {
+      "has_tag_c_sheldonite_ores": "2025-08-05 15:05:29 -0300"
     },
     "done": true
   },
@@ -31323,51 +31372,225 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+  "sophisticatedstorage:recipes/misc/backpack_magnet_upgrade_from_storage_magnet_upgrade": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+      "has_storage_upgrade": "2025-08-06 12:30:57 -0300"
     },
     "done": true
   },
-  "betterend:recipes/redstone/end_lotus_trapdoor": {
+  "twigs:recipes/lamps/warped_shroomlamp": {
     "criteria": {
-      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
+      "has_item": "2025-08-06 11:41:16 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_planks": {
+  "twigs:recipes/silt/silt_brick": {
     "criteria": {
-      "has_logs": "2025-08-05 15:03:24 -0300"
+      "has_item": "2025-08-06 11:41:16 -0300"
     },
     "done": true
   },
-  "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
+  "twigs:recipes/lamps/crimson_shroomlamp": {
     "criteria": {
-      "has_item": "2025-08-05 14:39:59 -0300"
+      "has_item": "2025-08-06 11:41:16 -0300"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+      "has_log": "2025-08-06 11:44:47 -0300"
     },
     "done": true
   },
-  "techreborn:recipes/extractor/glass_bottle_from_honey_bottle": {
+  "sophisticatedstorage:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
-      "has_honey_bottle": "2025-08-05 13:51:22 -0300"
+      "has_auto_smelting_upgrade": "2025-08-06 14:16:48 -0300"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-08-05 14:39:56 -0300"
+      "has_material": "2025-08-06 11:54:14 -0300"
     },
     "done": true
   },
-  "betterend:recipes/redstone/end_lotus_door": {
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
     "criteria": {
-      "has_end_lotus_planks": "2025-08-05 15:05:21 -0300"
+      "has_material": "2025-08-06 11:54:14 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
+    "criteria": {
+      "has_soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-08-06 12:30:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-08-06 11:44:47 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_auto_smelting_upgrade_from_storage_auto_smelting_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-08-06 14:16:48 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-08-06 11:41:17 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_smelting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-08-06 11:41:15 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/basalt_stalactite_basalt": {
+    "criteria": {
+      "has_basalt_stalactite": "2025-08-06 11:41:35 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-08-06 14:03:57 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_5": {
+    "criteria": {
+      "has_stack_upgrade_tier_4": "2025-08-06 11:36:20 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_stairs": {
+    "criteria": {
+      "has_soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_3_from_storage_stack_upgrade_tier_4": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-08-06 11:36:20 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_palisade": {
+    "criteria": {
+      "has_log": "2025-08-06 11:44:47 -0300"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
+    "criteria": {
+      "has_diamond_block": "2025-08-06 11:54:14 -0300"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-06 11:54:14 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-08-06 14:16:48 -0300"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_weeping_vine_bow": {
+    "criteria": {
+      "has_weeping_vines": "2025-08-06 11:41:17 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-08-06 11:44:45 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_auto_smoking_upgrade_from_storage_auto_smoking_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-08-06 12:27:39 -0300"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-08-06 11:54:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-06 11:54:14 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_1_from_storage_stack_upgrade_tier_2": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-08-06 14:03:57 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-08-06 11:54:14 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/sapphire_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-08-06 11:44:47 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_slab": {
+    "criteria": {
+      "has_soul_sandstone": "2025-08-06 11:41:16 -0300"
     },
     "done": true
   },
