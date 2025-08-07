@@ -25925,6 +25925,7 @@
       "betterend:dust_wastelands": "2025-07-29 13:56:39 -0300",
       "betterend:foggy_mushroomland": "2025-07-29 14:40:06 -0300",
       "betterend:ice_starfield": "2025-07-29 14:43:04 -0300",
+      "betterend:empty_smaragdant_cave": "2025-08-07 13:42:23 -0300",
       "betterend:glowing_grasslands": "2025-07-29 14:18:25 -0300",
       "betterend:jade_cave": "2025-08-02 17:56:55 -0300",
       "betterend:dragon_graveyards": "2025-07-29 14:59:19 -0300",
@@ -25933,7 +25934,9 @@
       "betterend:chorus_forest": "2025-07-29 15:26:25 -0300",
       "betterend:lantern_woods": "2025-07-29 14:47:00 -0300",
       "betterend:umbrella_jungle": "2025-07-29 15:07:01 -0300",
+      "betterend:empty_aurora_cave": "2025-08-07 13:38:08 -0300",
       "betterend:megalake": "2025-07-29 15:28:15 -0300",
+      "betterend:lush_smaragdant_cave": "2025-08-07 13:41:24 -0300",
       "betterend:blossoming_spires": "2025-07-29 14:47:44 -0300"
     },
     "done": false
@@ -31594,15 +31597,45 @@
     },
     "done": true
   },
-  "simplyswords:bramblethorn": {
-    "criteria": {
-      "requirement": "2025-08-07 10:44:40 -0300"
-    },
-    "done": true
-  },
   "simplyswords:hearthflame": {
     "criteria": {
       "requirement": "2025-08-07 09:03:07 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_diamond_armor": {
+    "criteria": {
+      "netherite_diamond_armor": "2025-08-07 09:15:07 -0300"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-08-07 09:20:49 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_tinkering_table_upgrade_from_backpack_chipped_tinkering_table_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:46 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_alchemy_bench_upgrade_from_backpack_chipped_alchemy_bench_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_loom_table_upgrade_from_backpack_chipped_loom_table_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:49 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_mason_table_upgrade_from_backpack_chipped_mason_table_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:49 -0300"
     },
     "done": true
   },
@@ -31612,9 +31645,21 @@
     },
     "done": true
   },
-  "simplyswords:emberblade": {
+  "sophisticatedstorage:recipes/misc/storage_chipped_glassblower_upgrade_from_backpack_chipped_glassblower_upgrade": {
     "criteria": {
-      "requirement": "2025-08-07 10:45:04 -0300"
+      "has_backpack_upgrade": "2025-08-07 09:35:50 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_botanist_workbench_upgrade_from_backpack_chipped_botanist_workbench_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:37:15 -0300"
     },
     "done": true
   },
@@ -31624,9 +31669,9 @@
     },
     "done": true
   },
-  "advancednetherite:nether/netherite_diamond_armor": {
+  "sophisticatedstorage:recipes/misc/storage_advanced_compacting_upgrade_from_backpack_advanced_compacting_upgrade": {
     "criteria": {
-      "netherite_diamond_armor": "2025-08-07 09:15:07 -0300"
+      "has_backpack_upgrade": "2025-08-07 09:38:01 -0300"
     },
     "done": true
   },
@@ -31642,57 +31687,45 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_chipped_alchemy_bench_upgrade_from_backpack_chipped_alchemy_bench_upgrade": {
+  "simplyswords:bramblethorn": {
     "criteria": {
-      "has_backpack_upgrade": "2025-08-07 09:35:48 -0300"
+      "requirement": "2025-08-07 10:44:40 -0300"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
+  "simplyswords:emberblade": {
     "criteria": {
-      "has_backpack_upgrade": "2025-08-07 09:37:15 -0300"
+      "requirement": "2025-08-07 10:45:04 -0300"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_chipped_botanist_workbench_upgrade_from_backpack_chipped_botanist_workbench_upgrade": {
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
     "criteria": {
-      "has_backpack_upgrade": "2025-08-07 09:35:51 -0300"
+      "has_item": "2025-08-07 15:42:41 -0300"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_chipped_tinkering_table_upgrade_from_backpack_chipped_tinkering_table_upgrade": {
+  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
     "criteria": {
-      "has_backpack_upgrade": "2025-08-07 09:35:46 -0300"
+      "has_item": "2025-08-07 15:42:41 -0300"
     },
     "done": true
   },
-  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+  "thaumon:recipes/misc/mutagen_from_amethyst_block_stonecutting": {
     "criteria": {
-      "comb_cutter_tool": "2025-08-07 09:20:49 -0300"
+      "has_amethyst_block": "2025-08-07 15:42:41 -0300"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_chipped_loom_table_upgrade_from_backpack_chipped_loom_table_upgrade": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_backpack_upgrade": "2025-08-07 09:35:49 -0300"
+      "has_stone_slab": "2025-08-07 15:43:39 -0300"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_chipped_glassblower_upgrade_from_backpack_chipped_glassblower_upgrade": {
+  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
-      "has_backpack_upgrade": "2025-08-07 09:35:50 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_chipped_mason_table_upgrade_from_backpack_chipped_mason_table_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2025-08-07 09:35:49 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_advanced_compacting_upgrade_from_backpack_advanced_compacting_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2025-08-07 09:38:01 -0300"
+      "has_item": "2025-08-07 15:42:41 -0300"
     },
     "done": true
   },
