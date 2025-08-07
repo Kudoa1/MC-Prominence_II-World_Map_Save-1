@@ -31372,9 +31372,21 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/backpack_magnet_upgrade_from_storage_magnet_upgrade": {
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_5": {
     "criteria": {
-      "has_storage_upgrade": "2025-08-06 12:30:57 -0300"
+      "has_stack_upgrade_tier_4": "2025-08-06 11:36:20 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_3_from_storage_stack_upgrade_tier_4": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-08-06 11:36:20 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-08-06 11:41:15 -0300"
     },
     "done": true
   },
@@ -31396,15 +31408,99 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
+    "criteria": {
+      "has_soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_smelting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_stairs": {
+    "criteria": {
+      "has_soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_slab": {
+    "criteria": {
+      "has_soul_sandstone": "2025-08-06 11:41:16 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-08-06 11:41:17 -0300"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_weeping_vine_bow": {
+    "criteria": {
+      "has_weeping_vines": "2025-08-06 11:41:17 -0300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/basalt_stalactite_basalt": {
+    "criteria": {
+      "has_basalt_stalactite": "2025-08-06 11:41:35 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-08-06 11:44:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2025-08-06 11:44:47 -0300"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+  "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2025-08-06 14:16:48 -0300"
+      "has_logs": "2025-08-06 11:44:47 -0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_palisade": {
+    "criteria": {
+      "has_log": "2025-08-06 11:44:47 -0300"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/sapphire_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-08-06 11:44:47 -0300"
     },
     "done": true
   },
@@ -31420,90 +31516,6 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
-    "criteria": {
-      "has_soul_sandstone": "2025-08-06 11:41:16 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/advanced_magnet_upgrade_from_basic": {
-    "criteria": {
-      "has_magnet_upgrade": "2025-08-06 12:30:57 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-08-06 11:44:47 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/backpack_auto_smelting_upgrade_from_storage_auto_smelting_upgrade": {
-    "criteria": {
-      "has_storage_upgrade": "2025-08-06 14:16:48 -0300"
-    },
-    "done": true
-  },
-  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
-    "criteria": {
-      "has_item": "2025-08-06 11:41:17 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/soul_sandstone_smelting": {
-    "criteria": {
-      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
-    "criteria": {
-      "has_netherrack_stalactite": "2025-08-06 11:41:15 -0300"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_silt_balls": {
-    "criteria": {
-      "has_item": "2025-08-06 11:41:16 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/basalt_stalactite_basalt": {
-    "criteria": {
-      "has_basalt_stalactite": "2025-08-06 11:41:35 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_3": {
-    "criteria": {
-      "has_stack_upgrade_tier_2": "2025-08-06 14:03:57 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_5": {
-    "criteria": {
-      "has_stack_upgrade_tier_4": "2025-08-06 11:36:20 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_stairs": {
-    "criteria": {
-      "has_soul_sandstone": "2025-08-06 11:41:16 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_3_from_storage_stack_upgrade_tier_4": {
-    "criteria": {
-      "has_storage_stack_upgrade": "2025-08-06 11:36:20 -0300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/crimson_palisade": {
-    "criteria": {
-      "has_log": "2025-08-06 11:44:47 -0300"
-    },
-    "done": true
-  },
   "techreborn:recipes/compressor/diamond_plate_from_block": {
     "criteria": {
       "has_diamond_block": "2025-08-06 11:54:14 -0300"
@@ -31513,42 +31525,6 @@
   "mcda:recipes/upgrade_cores/upgrade_core_depth": {
     "criteria": {
       "has_core_specification_item": "2025-08-06 11:54:14 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
-    "criteria": {
-      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2025-08-06 14:16:48 -0300"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_weeping_vine_bow": {
-    "criteria": {
-      "has_weeping_vines": "2025-08-06 11:41:17 -0300"
-    },
-    "done": true
-  },
-  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
-    "criteria": {
-      "has_item": "2025-08-06 11:44:45 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/soul_sandstone_stairs_stonecutting": {
-    "criteria": {
-      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/backpack_auto_smoking_upgrade_from_storage_auto_smoking_upgrade": {
-    "criteria": {
-      "has_storage_upgrade": "2025-08-06 12:27:39 -0300"
     },
     "done": true
   },
@@ -31564,33 +31540,159 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_1_from_storage_stack_upgrade_tier_2": {
-    "criteria": {
-      "has_storage_stack_upgrade": "2025-08-06 14:03:57 -0300"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
-    "criteria": {
-      "has_block.betternether.soul_sandstone": "2025-08-06 11:41:16 -0300"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-08-06 11:54:14 -0300"
     },
     "done": true
   },
-  "mythicupgrades:recipes/misc/sapphire_ingot": {
+  "sophisticatedstorage:recipes/misc/backpack_auto_smoking_upgrade_from_storage_auto_smoking_upgrade": {
     "criteria": {
-      "has_necessary_ingredients": "2025-08-06 11:44:47 -0300"
+      "has_storage_upgrade": "2025-08-06 12:27:39 -0300"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_slab": {
+  "sophisticatedstorage:recipes/misc/backpack_magnet_upgrade_from_storage_magnet_upgrade": {
     "criteria": {
-      "has_soul_sandstone": "2025-08-06 11:41:16 -0300"
+      "has_storage_upgrade": "2025-08-06 12:30:57 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-08-06 12:30:57 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-08-06 14:03:57 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_1_from_storage_stack_upgrade_tier_2": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-08-06 14:03:57 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-08-06 14:16:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_auto_smelting_upgrade_from_storage_auto_smelting_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-08-06 14:16:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-08-06 14:16:48 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:bramblethorn": {
+    "criteria": {
+      "requirement": "2025-08-07 10:44:40 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:hearthflame": {
+    "criteria": {
+      "requirement": "2025-08-07 09:03:07 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_carpenters_table_upgrade_from_backpack_chipped_carpenters_table_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:50 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2025-08-07 10:45:04 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_void_upgrade_from_backpack_advanced_void_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:37:58 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_diamond_armor": {
+    "criteria": {
+      "netherite_diamond_armor": "2025-08-07 09:15:07 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_magnet_upgrade_from_backpack_advanced_magnet_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:38:10 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:waxweaver": {
+    "criteria": {
+      "requirement": "2025-08-07 10:24:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_alchemy_bench_upgrade_from_backpack_chipped_alchemy_bench_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:48 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:37:15 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_botanist_workbench_upgrade_from_backpack_chipped_botanist_workbench_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_tinkering_table_upgrade_from_backpack_chipped_tinkering_table_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:46 -0300"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-08-07 09:20:49 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_loom_table_upgrade_from_backpack_chipped_loom_table_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:49 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_glassblower_upgrade_from_backpack_chipped_glassblower_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:50 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_chipped_mason_table_upgrade_from_backpack_chipped_mason_table_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:35:49 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_compacting_upgrade_from_backpack_advanced_compacting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-08-07 09:38:01 -0300"
     },
     "done": true
   },
